@@ -2,7 +2,7 @@
 
 ### Solidity / Ethereum
 
-- [LayerZero](./LayerZero%20Audit%20Report.pdf.pdf)
+- [LayerZero](./LayerZero%20Audit%20Report.pdf)
 - [1inch farming](./1inch%20Farming%20Audit%20Report.pdf)
 
 ### Solana
