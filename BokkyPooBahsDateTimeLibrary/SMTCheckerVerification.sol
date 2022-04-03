@@ -150,11 +150,11 @@ contract SMTCheckerVerification
         uint y1;
         uint m1;
         uint d1;
-        (y1,m1,d1) = bokkyPooBah_daysToDate(t);
+        (y1,m1,d1) = musl_libc_daysToDate(t);
         uint y2;
         uint m2;
         uint d2;
-        (y2,m2,d2) = shit(t);
+        (y2,m2,d2) = bokkyPooBah_daysToDate(t);
         assert(y1 == y2);
         assert(m1 == m2);
         assert(d1 == d2);
