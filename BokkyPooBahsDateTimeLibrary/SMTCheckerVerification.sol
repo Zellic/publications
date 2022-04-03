@@ -1,7 +1,5 @@
-
-// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-// This may report a warning if no SMT solver available.
 
 contract SMTCheckerVerification
 {
