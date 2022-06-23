@@ -14,4 +14,6 @@
 ### Solana
 
 - [Drift.trade](./Drift%20Protocol%20Audit%20Report.pdf)
-
+- [Pyth Oracle Client](./Pyth%20Oracle%20Client%20-%20Zellic%20Audit%20Report.pdf)
+- [Pyth2Wormhole](./Pyth2Wormhole%20-%20Zellic%20Audit%20Report.pdf)
+- [Pyth Governance](./Pyth%20Governance%20-%20Zellic%20Audit%20Report.pdf)
