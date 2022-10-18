@@ -60,3 +60,4 @@
 | Pontem Wallet                  | Oct 2022 |   Wallet    |                                                                           |
 | Magna                          | Oct 2022 |     EVM     |                                                                           |
 | Audius                         | Oct 2022 |   Solana    |                                                                           |
+| Gravity Bridge                 | Jun 2022 |   Cosmos    |                                                                           |
