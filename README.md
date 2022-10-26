@@ -44,7 +44,7 @@
 | SushiSwap                      | Jul 2022 |     EVM     |                                                                           |
 | SushiSwap                      | Sep 2022 |     EVM     |                                                                           |
 | TrueFi                         | Aug 2022 |     EVM     |                                                                           |
-| TrueFi                         | Aug 2022 |     EVM     |                                                                           |
+| TrustToken Contracts-Tequila   | Aug 2022 |     EVM     | [📝](./TrustToken%20Contracts-Tequila%20-%20Zellic%20Audit%20Report.pdf)  |
 | Wormhole ICCO                  | Jun 2022 | EVM, Solana |                                                                           |
 | Yuga Labs                      | Jun 2022 |     EVM     |                                                                           |
 | Empiric Network                | Aug 2022 |  Starknet   |                                                                           |
