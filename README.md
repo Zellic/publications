@@ -53,7 +53,7 @@
 | Audius                         | Sep 2022 |     EVM     |                                                                           |
 | Hippo Labs                     | Sep 2022 |    Aptos    |                                                                           |
 | MomentumSafe                   | Sep 2022 |    Aptos    |                                                                           |
-| Tortuga                        | Sep 2022 |    Aptos    |                                                                           |
+| Tortuga Liquid Staking         | Sep 2022 |    Aptos    |   [📝](./Tortuga%20Liquid%20Staking%20-%20Zellic%20Audit%20Report.pdf)    |
 | Laminar Markets                | Sep 2022 |    Aptos    |                                                                           |
 | Tsunami Finance                | Sep 2022 |    Aptos    |                                                                           |
 | Pontem LiquidSwap              | Oct 2022 |    Aptos    |                                                                           |
