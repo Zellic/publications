@@ -54,9 +54,9 @@
 | Hippo Labs                     | Sep 2022 |    Aptos    |                                                                           |
 | MomentumSafe                   | Sep 2022 |    Aptos    |                                                                           |
 | Tortuga Liquid Staking         | Sep 2022 |    Aptos    |   [📝](./Tortuga%20Liquid%20Staking%20-%20Zellic%20Audit%20Report.pdf)    |
-| Laminar Markets                | Sep 2022 |    Aptos    |                                                                           |
+| Laminar Markets                | Sep 2022 |    Aptos    |           [📝](./Laminar%20-%20Zellic%20Audit%20Report.pdf)               |
 | Tsunami Finance                | Sep 2022 |    Aptos    |                                                                           |
-| Pontem LiquidSwap              | Oct 2022 |    Aptos    |                                                                           |
+| Pontem LiquidSwap              | Oct 2022 |    Aptos    |    [📝](./Pontem%20Liquidswap%20-%20Zellic%20Audit%20Report.pdf)          |
 | Pontem Wallet                  | Oct 2022 |   Wallet    |                                                                           |
 | Magna                          | Oct 2022 |     EVM     |                                                                           |
 | Audius                         | Oct 2022 |   Solana    |                                                                           |
