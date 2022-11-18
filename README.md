@@ -43,6 +43,7 @@
 | Dfyn RFQ                       | Aug 2022 |     EVM     |       [📝](./DFYN%20RFQ%20-%20Zellic%20Audit%20Report.pdf)                |
 | SushiSwap                      | Jul 2022 |     EVM     |                                                                           |
 | SushiSwap                      | Sep 2022 |     EVM     |                                                                           |
+| SushiSwap                      | Oct 2022 |     EVM     |                                                                           |
 | TrueFi                         | Aug 2022 |     EVM     |                                                                           |
 | TrustToken Contracts-Tequila   | Aug 2022 |     EVM     | [📝](./TrustToken%20Contracts-Tequila%20-%20Zellic%20Audit%20Report.pdf)  |
 | Wormhole ICCO                  | Jun 2022 | EVM, Solana |                                                                           |
@@ -62,3 +63,15 @@
 | Audius                         | Oct 2022 |   Solana    |                                                                           |
 | Gravity Bridge                 | Jun 2022 |   Cosmos    |                                                                           |
 | Voyage Finance                 | Sep 2022 |     EVM     |           [📝](./Voyage%20-%20Zellic%20Audit%20Report.pdf)                |
+| Thala Labs                     | Sep 2022 |    Aptos    |                                                                           |
+| Bond Protocol                  | Oct 2022 |     EVM     |                                                                           |
+| Flip                           | Oct 2022 |     EVM     |                                                                           |
+| Pyth Crosschain                | Oct 2022 | EVM, Solana |                                                                           |
+| CoinFx                         | Oct 2022 |   Solana    |                                                                           |
+| xRaydium                       | Nov 2022 | EVM, Solana |                                                                           |
+| Wormhole                       | Nov 2022 |    Aptos    |                                                                           |
+| Shrapnel                       | Nov 2022 |     EVM     |                                                                           |
+| Superform                      | Nov 2022 |     EVM     |                                                                           |
+| Pancake Swap                   | Nov 2022 |    Aptos    |                                                                           |
+| Spice Fi                       | Nov 2022 |     EVM     |                                                                           |
+| Multisig Labs                  | Nov 2022 |     EVM     |                                                                           |
