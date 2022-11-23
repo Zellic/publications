@@ -51,7 +51,6 @@
 | Empiric Network                | Aug 2022 |  Starknet   |      [📝](./Empiric%20Oracle%20-%20Zellic%20Audit%20Report.pdf)           |
 | Valts                          | Sep 2022 |     EVM     |                                                                           |
 | Alkimiya                       | Aug 2022 |     EVM     |                                                                           |
-| Audius                         | Sep 2022 |     EVM     |                                                                           |
 | Hippo Labs                     | Sep 2022 |    Aptos    |                                                                           |
 | MomentumSafe                   | Sep 2022 |    Aptos    |                                                                           |
 | Tortuga Liquid Staking         | Sep 2022 |    Aptos    |   [📝](./Tortuga%20Liquid%20Staking%20-%20Zellic%20Audit%20Report.pdf)    |
@@ -60,7 +59,8 @@
 | Pontem LiquidSwap              | Oct 2022 |    Aptos    |    [📝](./Pontem%20Liquidswap%20-%20Zellic%20Audit%20Report.pdf)          |
 | Pontem Wallet                  | Oct 2022 |   Wallet    |                                                                           |
 | Magna                          | Oct 2022 |     EVM     |                                                                           |
-| Audius                         | Oct 2022 |   Solana    |                                                                           |
+| Audius                         | Sep 2022 |     EVM     |       [📝](./Audius%20EVM%20-%20Zellic%20Audit%20Report.pdf)              |
+| Audius                         | Oct 2022 |   Solana    |       [📝](./Audius%20Solana%20-%20Zellic%20Audit%20Report.pdf)           |
 | Gravity Bridge                 | Jun 2022 |   Cosmos    |                                                                           |
 | Voyage Finance                 | Sep 2022 |     EVM     |           [📝](./Voyage%20-%20Zellic%20Audit%20Report.pdf)                |
 | Thala Labs                     | Sep 2022 |    Aptos    |                                                                           |
