@@ -75,3 +75,4 @@
 | Pancake Swap                   | Nov 2022 |    Aptos    |                                                                           |
 | Spice Fi                       | Nov 2022 |     EVM     |                                                                           |
 | Multisig Labs                  | Nov 2022 |     EVM     |                                                                           |
+| Wrapped ETH (WETH9)            | Nov 2022 |     EVM     | [📝](https://github.com/Zellic/weth)                                     |
