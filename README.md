@@ -16,7 +16,7 @@
 | Revest Finance                 | Apr 2022 |     EVM     |        [📝](./Revest%20Finance%20-%20Zellic%20Audit%20Report.pdf)         |
 | Revest Resonate Pt. 1          | Aug 2022 |     EVM     |   [📝](./Revest%20Resonate%20Pt.%201%20-%20Zellic%20Audit%20Report.pdf)   |
 | Revest Resonate Pt. 2          | Aug 2022 |     EVM     |   [📝](./Revest%20Resonate%20Pt.%202%20-%20Zellic%20Audit%20Report.pdf)   |
-| BokkyPooBah's DateTime library | Apr 2022 |     EVM     |                   [📝](./BokkyPooBahsDateTimeLibrary/)                    |
+| BokkyPooBah's DateTime library | Apr 2022 |     EVM     |   [📝](https://github.com/Zellic/BokkyPooBahsDateTimeLibrary)             |
 | Volt Protocol                  | Mar 2022 |     EVM     |         [📝](./Volt%20Protocol%20-%20Zellic%20Audit%20Report.pdf)         |
 | Pyth Oracle Client             | Apr 2022 |   Solana    |     [📝](./Pyth%20Oracle%20Client%20-%20Zellic%20Audit%20Report.pdf)      |
 | Pyth2Wormhole                  | Apr 2022 |   Solana    |          [📝](./Pyth2Wormhole%20-%20Zellic%20Audit%20Report.pdf)          |
