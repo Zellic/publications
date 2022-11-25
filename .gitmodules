@@ -1,0 +1,6 @@
+[submodule "weth"]
+	path = weth
+	url = https://github.com/Zellic/weth
+[submodule "BokkyPooBahsDateTimeLibrary"]
+	path = BokkyPooBahsDateTimeLibrary
+	url = https://github.com/Zellic/BokkyPooBahsDateTimeLibrary
