@@ -64,7 +64,7 @@
 | Gravity Bridge                 | Jun 2022 |   Cosmos    |                                                                           |
 | Voyage Finance                 | Sep 2022 |     EVM     |           [📝](./Voyage%20-%20Zellic%20Audit%20Report.pdf)                |
 | Thala Labs                     | Sep 2022 |    Aptos    |                                                                           |
-| Bond Protocol                  | Oct 2022 |     EVM     | [📝](./Bond%20Protocol%20-%20Zellic%20Audit%20Report.pdf)                |
+| Bond Protocol                  | Oct 2022 |     EVM     |  [📝](./Bond%20Protocol%20-%20Zellic%20Audit%20Report.pdf)                |
 | Flip                           | Oct 2022 |     EVM     |                                                                           |
 | Pyth Crosschain                | Oct 2022 | EVM, Solana |                                                                           |
 | CoinFx                         | Oct 2022 |   Solana    |                                                                           |
@@ -72,7 +72,7 @@
 | Wormhole                       | Nov 2022 |    Aptos    |                                                                           |
 | Shrapnel                       | Nov 2022 |     EVM     |                                                                           |
 | Superform                      | Nov 2022 |     EVM     |                                                                           |
-| Pancake Swap                   | Nov 2022 |    Aptos    |                                                                           |
+| Pancake Swap                   | Nov 2022 |    Aptos    |        [📝](./PancakeSwap%20Aptos%20-%20Zellic%20Audit%20Report.pdf)      |
 | Spice Fi                       | Nov 2022 |     EVM     |                                                                           |
 | Multisig Labs                  | Nov 2022 |     EVM     |                                                                           |
-| Wrapped ETH (WETH9)            | Nov 2022 |     EVM     | [📝](https://github.com/Zellic/weth)                                     |
+| Wrapped ETH (WETH9)            | Nov 2022 |     EVM     |   [📝](https://github.com/Zellic/weth)                                     |
