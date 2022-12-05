@@ -76,3 +76,4 @@
 | Drift Protocol                 | Feb 2022 |   Solana    |               [📝](./Drift%20Protocol%20Audit%20Report.pdf)               |
 | Midas Capital                  | May 2022 |     EVM     |                    [📝](./Midas%20Audit%20Report.pdf)                     |
 | 1inch Farming                  | Mar 2022 |     EVM     |               [📝](./1inch%20Farming%20Audit%20Report.pdf)                |
+| SPL Token 2022                 | Dec 2022 |   Solana    |               [📝](./SPL%20Token%20-%20Zellic%20Audit%20Report.pdf)       |
