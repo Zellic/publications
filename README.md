@@ -3,7 +3,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Wrapped ETH (WETH9)            | Nov 2022 |     EVM     |   [📝](https://github.com/Zellic/weth)                                     |
-| SPL Token 2022                 | Dec 2022 |   Solana    |               [📝](./SPL%20Token%20-%20Zellic%20Audit%20Report.pdf)       |
+| Solana Foundation SPL Token 2022 | Dec 2022 |   Solana    |               [📝](./SPL%20Token%20-%20Zellic%20Audit%20Report.pdf)       |
 | Multisig Labs                  | Nov 2022 |     EVM     |                                                                           |
 | Spice Fi                       | Nov 2022 |     EVM     |                                                                           |
 | Pancake Swap                   | Nov 2022 |    Aptos    |        [📝](./PancakeSwap%20Aptos%20-%20Zellic%20Audit%20Report.pdf)      |
