@@ -17,7 +17,7 @@
 | LayerZero Stargate             | Mar 2022 |     EVM     |       [📝](LayerZero%20Stargate%20-%20Zellic%20Audit%20Report.pdf)        |
 | Superform                      | Nov 2022 |     EVM     |                                                                           |
 | Shrapnel                       | Nov 2022 |     EVM     |                                                                           |
-| Wormhole                       | Nov 2022 |    Aptos    |                                                                           |
+| Wormhole                       | Nov 2022 |    Aptos    |     [📝](./Wormhole%20Aptos%20-%20Zellic%20Audit%20Report.pdf)            |
 | xRaydium                       | Nov 2022 | EVM, Solana |                                                                           |
 | CoinFx                         | Oct 2022 |   Solana    |                                                                           |
 | Pyth Crosschain                | Oct 2022 | EVM, Solana |                                                                           |
