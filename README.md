@@ -13,6 +13,11 @@
 | LayerZero Prooflib             | Apr 2022 |     EVM     |                                                                           |
 | LayerZero Core                 | Apr 2022 |     EVM     |        [📝](./LayerZero%20Core%20-%20Zellic%20Audit%20Report.pdf)         |
 | LayerZero Stargate             | Mar 2022 |     EVM     |       [📝](LayerZero%20Stargate%20-%20Zellic%20Audit%20Report.pdf)        |
+| LayerZero ULNV2R               | Nov 2022 |     EVM     |       [📝](LayerZero%20UltraLightNodeV2Radar%20Audit%20(November%2022nd%202022)%20-%20Zellic%20Audit%20Report.pdf)        |
+| LayerZero Core                 | June 2022 |     EVM     |       [📝](LayerZero%20Core%20Audit%20(June%203rd%202022)%20-%20Zellic%20Audit%20Report.pdf)        |
+| LayerZero Stargate Router & FeeLibraryV5.1  | Dec 2022 |     EVM     |       [📝](LayerZero%20Router%20&%20FeeLibraryV5.1%20Audit%20(December%2014th%202022)%20-%20Zellic%20Audit%20Report.pdf)        |
+| LayerZero OFT Wrapper          | Jan 2023 |     EVM     |       [📝](LayerZero%20OFT%20Wrapper%20Audit%20(January%2019th%202023)%20-%20Zellic%20Audit%20Report.pdf)        |
+| LayerZero Solidity Examples ONFT | Jan 2023 |     EVM     |       [📝](LayerZero%20Solidity%20Examples%20ONFT%20Audit%20(January%2019th%202023)%20-%20Zellic.pdf)        |
 | Superform                      | Nov 2022 |     EVM     |                                                                           |
 | Shrapnel                       | Nov 2022 |     EVM     |                                                                           |
 | Wormhole                       | Nov 2022 |    Aptos    |     [📝](./Wormhole%20Aptos%20-%20Zellic%20Audit%20Report.pdf)            |
