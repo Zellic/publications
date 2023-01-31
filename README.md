@@ -7,10 +7,8 @@
 | Multisig Labs                  | Nov 2022 |     EVM     |                                                                           |
 | Spice Fi                       | Nov 2022 |     EVM     |                                                                           |
 | Pancake Swap                   | Nov 2022 |    Aptos    |        [📝](./PancakeSwap%20Aptos%20-%20Zellic%20Audit%20Report.pdf)      |
-| LayerZero Stargate             | May 2022 |     EVM     | [📝](./LayerZero%20Solidity%20Examples%20-%20Zellic%20Audit%20Report.pdf) |
 | LayerZero Solana               | Sep 2022 |   Solana    |                                                                           |
 | LayerZero Aptos                | Aug 2022 |    Aptos     |                                                                           |
-| LayerZero Stargate             | May 2022 |     EVM     | [📝](./LayerZero%20Solidity%20Examples%20-%20Zellic%20Audit%20Report.pdf) |
 | LayerZero Solidity Examples    | May 2022 |     EVM     | [📝](./LayerZero%20Solidity%20Examples%20-%20Zellic%20Audit%20Report.pdf) |
 | LayerZero Prooflib             | Apr 2022 |     EVM     |                                                                           |
 | LayerZero Core                 | Apr 2022 |     EVM     |        [📝](./LayerZero%20Core%20-%20Zellic%20Audit%20Report.pdf)         |
