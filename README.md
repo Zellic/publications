@@ -4,6 +4,7 @@
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Wrapped ETH (WETH9)            | Nov 2022 |     EVM     |   [📝](https://github.com/Zellic/weth)                                     |
 | Solana Foundation SPL Token 2022 | Dec 2022 |   Solana    |               [📝](./SPL%20Token%20-%20Zellic%20Audit%20Report.pdf)       |
+| Valorem                        | Dec 2022 |     EVM     |               [📝](./Valorem%20-%20Zellic%20Audit%20Report.pdf)          |
 | Multisig Labs                  | Nov 2022 |     EVM     |                                                                           |
 | Spice Fi                       | Nov 2022 |     EVM     |                                                                           |
 | Pancake Swap                   | Nov 2022 |    Aptos    |        [📝](./PancakeSwap%20Aptos%20-%20Zellic%20Audit%20Report.pdf)      |
@@ -80,4 +81,3 @@
 | Drift Protocol                 | Feb 2022 |   Solana    |               [📝](./Drift%20Protocol%20Audit%20Report.pdf)               |
 | Midas Capital                  | May 2022 |     EVM     |                    [📝](./Midas%20Audit%20Report.pdf)                     |
 | 1inch Farming                  | Mar 2022 |     EVM     |               [📝](./1inch%20Farming%20Audit%20Report.pdf)                |
-| Valorem                        | Dec 2022 |     EVM     |               [📝](./Valorem%20-%20Zellic%20Audit%20Report.pdf)          |
