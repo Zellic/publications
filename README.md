@@ -47,6 +47,7 @@
 | Wormhole ICCO                  | Jun 2022 | EVM, Solana |                                                                           |
 | TrustToken Contracts-Tequila   | Aug 2022 |     EVM     | [📝](./TrustToken%20Contracts-Tequila%20-%20Zellic%20Audit%20Report.pdf)  |
 | TrueFi                         | Aug 2022 |     EVM     |                                                                           |
+| SushiSwap - Trident Concentrated Liquidity                     | Jan 2023 |     EVM     | [📝](./Sushiswap%20Trident%20Concentrated%20Liquidity%20-%20Zellic%20Audit%20Report.pdf)|
 | SushiSwap                      | Oct 2022 |     EVM     |                                                                           |
 | SushiSwap                      | Sep 2022 |     EVM     |                                                                           |
 | SushiSwap                      | Jul 2022 |     EVM     |                                                                           |
