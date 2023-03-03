@@ -33,7 +33,7 @@
 | Audius                         | Oct 2022 |   Solana    |       [📝](./Audius%20Solana%20-%20Zellic%20Audit%20Report.pdf)           |
 | Audius                         | Sep 2022 |     EVM     |       [📝](./Audius%20EVM%20-%20Zellic%20Audit%20Report.pdf)              |
 | Magna                          | Oct 2022 |     EVM     |                                                                           |
-| Pontem Wallet                  | Oct 2022 |   Wallet    |                                                                           |
+| Pontem Wallet                  | Oct 2022 |   Wallet    |        [📝](./Pontem%20wallet%20-%20Zellic%20Audit%20Report.pdf)           |
 | Pontem LiquidSwap              | Oct 2022 |    Aptos    |    [📝](./Pontem%20Liquidswap%20-%20Zellic%20Audit%20Report.pdf)          |
 | Tsunami Finance                | Sep 2022 |    Aptos    |                                                                           |
 | Laminar Markets                | Sep 2022 |    Aptos    |           [📝](./Laminar%20-%20Zellic%20Audit%20Report.pdf)               |
