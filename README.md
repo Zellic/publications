@@ -72,6 +72,7 @@
 | TimelessFi Yield Daddy         | Aug 2022 |     EVM     |                                                                           |
 | BrahmaFi                       | May 2022 |     EVM     |            [📝](./BrahmaFi%20-%20Zellic%20Audit%20Report.pdf)             |
 | Jarvis Network Synthereum      | Jul 2022 |     EVM     |  [📝](./Jarvis%20Network%20Synthereum%20-%20Zellic%20Audit%20Report.pdf)  |
+| Pyth CosmWasm                  | Mar 2023 |   Cosmos    |        [📝](./Pyth%20Network%20CosmWasm%20-%20Zellic%20Audit%20Report.pdf)|
 | Pyth Governance                | May 2022 |   Solana    |        [📝](./Pyth%20Governance%20-%20Zellic%20Audit%20Report.pdf)        |
 | Pyth2Wormhole                  | Apr 2022 |   Solana    |          [📝](./Pyth2Wormhole%20-%20Zellic%20Audit%20Report.pdf)          |
 | Pyth Oracle Client             | Apr 2022 |   Solana    |     [📝](./Pyth%20Oracle%20Client%20-%20Zellic%20Audit%20Report.pdf)      |
