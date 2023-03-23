@@ -56,7 +56,7 @@
 | SushiSwap                      | Jul 2022 |     EVM     |                                                                           |
 | Dfyn RFQ                       | Aug 2022 |     EVM     |       [📝](./DFYN%20RFQ%20-%20Zellic%20Audit%20Report.pdf)                |
 | Porter Finance                 | Apr 2022 |     EVM     |                                                                           |
-| Muni                           | May 2022 |     EVM     |                                                                           |
+| Muni                           | May 2022 |     EVM     |      [📝](./Muni%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Maverick                       | May 2022 |     EVM     | [📝](./Maverick%20Protocol%20-%20Zellic%20Security%20Assessment%20Report.pdf) |
 | Limit Break                    | Aug 2022 |     EVM     |                                                                           |
 | Limit Break                    | Aug 2022 |     EVM     |                                                                           |
@@ -70,7 +70,7 @@
 | CrocSwap                       | Jul 2022 |     EVM     |                                                                           |
 | Commonwealth                   | May 2022 |     EVM     |                                                                           |
 | Cega Vault                     | May 2022 |   Solana    |                                                                           |
-| Arpeggi V2                     | Apr 2022 |     EVM     |                                                                           |
+| Arpeggi V2                     | Apr 2022 |     EVM     |                 [📝](./Arpeggi_Labs_-_Zellic_Audit_Report.pdf)            |
 | TimelessFi Yield Daddy         | Aug 2022 |     EVM     |                                                                           |
 | BrahmaFi                       | May 2022 |     EVM     |            [📝](./BrahmaFi%20-%20Zellic%20Audit%20Report.pdf)             |
 | Jarvis Network Synthereum      | Jul 2022 |     EVM     |  [📝](./Jarvis%20Network%20Synthereum%20-%20Zellic%20Audit%20Report.pdf)  |
