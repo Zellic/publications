@@ -44,7 +44,7 @@
 | MomentumSafe                   | Sep 2022 |    Aptos    |                                                                           |
 | Hippo Labs                     | Sep 2022 |    Aptos    |                                                                           |
 | Alkimiya                       | Aug 2022 |     EVM     |                                                                           |
-| Valts                          | Sep 2022 |     EVM     |                                                                           |
+| Valts                          | Sep 2022 |     EVM     |              [📝](./Valts%20-%20Zellic%20Audit%20Report.pdf)              |
 | Empiric Network                | Aug 2022 |  Starknet   |      [📝](./Empiric%20Oracle%20-%20Zellic%20Audit%20Report.pdf)           |
 | Yuga Labs                      | Jun 2022 |     EVM     |                                                                           |
 | Wormhole ICCO                  | Jun 2022 | EVM, Solana |                                                                           |
