@@ -4,6 +4,7 @@
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Horizon Sequence Wallet        | Mar 2023 |     EVM     |     [📝](./Horizon%20Sequence%20Wallet%20-%20Zellic%20Audit%20Report.pdf) |
 | Succinct Telepathy             | Mar 2023 |     EVM     |            [📝](./Succinct%20Telepathy%20-%20Zellic%20Audit%20Report.pdf) |
+| Matrixdock STBT                | Feb 2023 |     EVM     |               [📝](./Matrixdock-STBT%20-%20Zellic%20Audit%20Report.pdf)   |
 | Thala Labs Move Dollar         | Feb 2023 |     Aptos   |  [📝](./Thala%20Labs%20Move%20Dollar%20-%20Zellic%20Audit%20Report.pdf)   |
 | EtherFi                        | Feb 2023 |     EVM     |                  [📝](./EtherFi_-_Zellic_Audit_Report.pdf)                |
 | Econia                         | Jan 2023 |     EVM     |                          [📝](./Econia%20-%20Zellic%20Audit%20Report.pdf) |
