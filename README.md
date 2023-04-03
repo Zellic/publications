@@ -2,7 +2,8 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
-| Cega Vault Patch Review        | Mar 2023 |     EVM     |     [📝](./Cega%20Vault%20Smart%20Contract%20Patch%20Review.pdf)           |
+| Cega Vault Patch Review        | Mar 2023 |     EVM     |     [📝](./Cega%20Vault%20Smart%20Contract%20Patch%20Review.pdf)          |
+| Cega Vault                     | Mar 2023 |     EVM     |     [📝](./Cega%20-%20Zellic%20Audit%20Report.pdf)                        |
 | Horizon Sequence Wallet        | Mar 2023 |     EVM     |     [📝](./Horizon%20Sequence%20Wallet%20-%20Zellic%20Audit%20Report.pdf) |
 | Succinct Telepathy             | Mar 2023 |     EVM     |            [📝](./Succinct%20Telepathy%20-%20Zellic%20Audit%20Report.pdf) |
 | Matrixdock STBT                | Feb 2023 |     EVM     |               [📝](./Matrixdock-STBT%20-%20Zellic%20Audit%20Report.pdf)   |
