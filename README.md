@@ -37,7 +37,6 @@
 | Pyth Crosschain                | Oct 2022 | EVM, Solana |                                                                           |
 | Flip                           | Oct 2022 |     EVM     |                                                                           |
 | Bond Protocol                  | Oct 2022 |     EVM     |  [📝](./Bond%20Protocol%20-%20Zellic%20Audit%20Report.pdf)                |
-| Thala Labs                     | Sep 2022 |    Aptos    |                                                                           |
 | Voyage Finance                 | Sep 2022 |     EVM     |           [📝](./Voyage%20-%20Zellic%20Audit%20Report.pdf)                |
 | Gravity Bridge                 | Jun 2022 |   Cosmos    |                                                                           |
 | Audius                         | Oct 2022 |   Solana    |       [📝](./Audius%20Solana%20-%20Zellic%20Audit%20Report.pdf)           |
