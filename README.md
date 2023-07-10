@@ -93,6 +93,5 @@
 | Revest Resonate Pt. 1          | Aug 2022 |     EVM     |   [📝](./Revest%20Resonate%20Pt.%201%20-%20Zellic%20Audit%20Report.pdf)   |
 | Revest Finance                 | Apr 2022 |     EVM     |        [📝](./Revest%20Finance%20-%20Zellic%20Audit%20Report.pdf)         |
 | Drift Protocol                 | Feb 2022 |   Solana    |               [📝](./Drift%20Protocol%20Audit%20Report.pdf)               |
-| Midas Capital                  | May 2022 |     EVM     |                    [📝](./Midas%20Audit%20Report.pdf)                     |
 | 1inch Farming                  | Mar 2022 |     EVM     |               [📝](./1inch%20Farming%20Audit%20Report.pdf)                |
 
