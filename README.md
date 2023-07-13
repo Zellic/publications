@@ -2,6 +2,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Odos Router v2                 | June 2023 |  EVM         |     [📝](./Odos%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Cosmos SDK Sign Mode Textual   | May 2023 |  Cosmos     |     [📝](./Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf)|
 | Maia DAO Ulysses Protocol      | May 2023 |     EVM     |     [📝](./Maia%20DAO%20Ulysses%20Protocol%20May%202023%20-%20Zellic%20Audit%20Report.pdf)          |
 | Maia DAO                       | Feb 2023 |     EVM     |     [📝](./Maia%20DAO%20February%202023%20-%20Zellic%20Audit%20Report.pdf)|
