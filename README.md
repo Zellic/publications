@@ -2,7 +2,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
-| Asymmetry Finance - safETH     | July 2023 |  EVM         |     [📝](./safETH%20-%20Zellic%20Audit%20Report.pdf)                     |
+| Asymmetry Finance - safETH     | July 2023 |  EVM         |   [📝](./Asymmetry%20Finanace%20safETH%20-%20Zellic%20Audit%20Report.pdf)|
 | Mantle                         | July 2023 |  EVM         |     [📝](./Mantle%20-%20Zellic%20Audit%20Report.pdf)                     |
 | Biconomy Smart Account         | June 2023 |  EVM         |     [📝](./Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf) |
 | Odos Router v2                 | June 2023 |  EVM         |     [📝](./Odos%20-%20Zellic%20Audit%20Report.pdf)                       |
