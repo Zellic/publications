@@ -2,6 +2,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| ChainLocker                    | August 2023 |  EVM       |   [📝](./ChainLocker%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Lootrush Custodial Wallet      | July 2023 |  EVM         |   [📝](./LootRush%20-%20Zellic%20Audit%20Report.pdf)                     |
 | Asymmetry Finance - safETH     | July 2023 |  EVM         |   [📝](./Asymmetry%20Finanace%20safETH%20-%20Zellic%20Audit%20Report.pdf)|
 | Mantle                         | July 2023 |  EVM         |     [📝](./Mantle%20-%20Zellic%20Audit%20Report.pdf)                     |
