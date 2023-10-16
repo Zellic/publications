@@ -2,6 +2,9 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Sushiswap SushiXSwap V2        | August 2023 |  EVM       |   [📝](./SushiXSwap%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
+| Sushiswap FundsReturner        | April 2023 |  EVM       |   [📝](./SushiSwap%20FundsReturner%20-%20Zellic%20Audit%20Report.pdf)    |
+| Sushiswap RouteProcessor3      | April 2023 |  EVM       |   [📝](./SushiSwap%20RouteProcessor3%20-%20Zellic%20Audit%20Report.pdf)  |
 | Scroll zkEVM part 1            | May 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%201%20Audit%20Report.pdf)               |
 | Scroll zkEVM part 2            | July 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%202%20Audit%20Report.pdf)              |
 | Scroll Contracts               | May 2023 |  EVM       |   [📝](./Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)              |
