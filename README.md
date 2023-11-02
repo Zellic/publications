@@ -2,6 +2,16 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Sushiswap SushiXSwap V2        | August 2023 |  EVM       |   [📝](./SushiXSwap%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
+| Sushiswap FundsReturner        | April 2023 |  EVM       |   [📝](./SushiSwap%20FundsReturner%20-%20Zellic%20Audit%20Report.pdf)    |
+| Sushiswap RouteProcessor3      | April 2023 |  EVM       |   [📝](./SushiSwap%20RouteProcessor3%20-%20Zellic%20Audit%20Report.pdf)  |
+| Scroll zkEVM part 1            | May 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%201%20-%20Audit%20Report.pdf)           |
+| Scroll zkEVM part 2            | July 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf)          |
+| Scroll Contracts               | May 2023 |  EVM       |   [📝](./Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)              |
+| Scroll Contracts               | September 2023 |  EVM       |   [📝](./Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)        |
+| ChainLocker                    | August 2023 |  EVM       |   [📝](./ChainLocker%20-%20Zellic%20Audit%20Report.pdf)                  |
+| Socket Data Layer              | July 2023 |  EVM       |   [📝](./Socket%20Data%20Layer%20-%20Zellic%20Audit%20Report.pdf)          |
+| Lootrush Custodial Wallet      | July 2023 |  EVM         |   [📝](./LootRush%20-%20Zellic%20Audit%20Report.pdf)                     |
 | Asymmetry Finance - safETH     | July 2023 |  EVM         |   [📝](./Asymmetry%20Finanace%20safETH%20-%20Zellic%20Audit%20Report.pdf)|
 | Mantle                         | July 2023 |  EVM         |     [📝](./Mantle%20-%20Zellic%20Audit%20Report.pdf)                     |
 | Biconomy Smart Account         | June 2023 |  EVM         |     [📝](./Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf) |
