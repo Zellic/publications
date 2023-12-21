@@ -2,6 +2,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Sturdy Finance                 | September 2023 |  EVM       |   [📝](./Sturdy%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sushiswap SushiXSwap V2        | August 2023 |  EVM       |   [📝](./SushiXSwap%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sushiswap FundsReturner        | April 2023 |  EVM       |   [📝](./SushiSwap%20FundsReturner%20-%20Zellic%20Audit%20Report.pdf)    |
 | Sushiswap RouteProcessor3      | April 2023 |  EVM       |   [📝](./SushiSwap%20RouteProcessor3%20-%20Zellic%20Audit%20Report.pdf)  |
