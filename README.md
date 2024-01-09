@@ -2,6 +2,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Orderly Network                | November 2023 |  EVM       |   [📝](./Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nukem Loans                    | October 2023 |  EVM       |   [📝](./Nukem%20Loans%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sturdy Finance                 | September 2023 |  EVM       |   [📝](./Sturdy%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sushiswap SushiXSwap V2        | August 2023 |  EVM       |   [📝](./SushiXSwap%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
