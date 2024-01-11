@@ -13,6 +13,7 @@
 | Scroll Contracts               | May 2023 |  EVM       |   [📝](./Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)              |
 | Scroll Contracts               | September 2023 |  EVM       |   [📝](./Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)        |
 | ChainLocker                    | August 2023 |  EVM       |   [📝](./ChainLocker%20-%20Zellic%20Audit%20Report.pdf)                  |
+| Hyperliquid                    | August 2023 |  EVM       |   [📝](./Hyperliquid%20-%20Zellic%20Audit%20Report.pdf)                  |
 | StaFi                          | July 2023 |  EVM       |   [📝](./StaFi%20-%20Zellic%20Audit%20Report.pdf)          |
 | Socket Data Layer              | July 2023 |  EVM       |   [📝](./Socket%20Data%20Layer%20-%20Zellic%20Audit%20Report.pdf)          |
 | Lootrush Custodial Wallet      | July 2023 |  EVM         |   [📝](./LootRush%20-%20Zellic%20Audit%20Report.pdf)                     |
