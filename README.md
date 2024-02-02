@@ -16,6 +16,7 @@
 | Scroll Contracts               | September 2023 |  EVM       |   [📝](./Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)        |
 | Privy Shamir Secret Sharing    | August 2023 |  Web       |   [📝](./Privy%20Shamir%20Secret%20Sharing%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Beefy Token                    | August 2023 |  EVM       |   [📝](./Beefy%20BIFI%20Token%20-%20Zellic%20Audit%20Report.pdf)                  |
+| Beefy Wrapper                  | August 2023 |  EVM       |   [📝](./Beefy%20Wrapper%20-%20Zellic%20Audit%20Report.pdf)                  |
 | ChainLocker                    | August 2023 |  EVM       |   [📝](./ChainLocker%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Hyperliquid                    | August 2023 |  EVM       |   [📝](./Hyperliquid%20-%20Zellic%20Audit%20Report.pdf)                  |
 | StaFi                          | July 2023 |  EVM       |   [📝](./StaFi%20-%20Zellic%20Audit%20Report.pdf)          |
