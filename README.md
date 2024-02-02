@@ -25,6 +25,7 @@
 | Mantle                         | July 2023 |  EVM         |     [📝](./Mantle%20-%20Zellic%20Audit%20Report.pdf)                     |
 | Biconomy Smart Account         | June 2023 |  EVM         |     [📝](./Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf) |
 | Odos Router v2                 | June 2023 |  EVM         |     [📝](./Odos%20-%20Zellic%20Audit%20Report.pdf)                       |
+| SyncSwap                       | May 2023 |  EVM         |     [📝](./SyncSwap%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Mysten Labs - Move and Sui     | May 2023  |  Move        |   [📝](./Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf)|
 | Cosmos SDK Sign Mode Textual   | May 2023 |  Cosmos     |     [📝](./Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf)|
 | Maia DAO Ulysses Protocol      | May 2023 |     EVM     |     [📝](./Maia%20DAO%20Ulysses%20Protocol%20May%202023%20-%20Zellic%20Audit%20Report.pdf)          |
