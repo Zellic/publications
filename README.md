@@ -21,6 +21,7 @@
 | ChainLocker                    | August 2023 |  EVM       |   [📝](./ChainLocker%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Hyperliquid                    | August 2023 |  EVM       |   [📝](./Hyperliquid%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Nibiru                         | July 2023 |  Cosmos       |   [📝](./Nibiru%20-%20Zellic%20Audit%20Report.pdf)               |
+| Ethena                         | July 2023 |  EVM       |   [📝](./Ethena%20-%20Zellic%20Audit%20Report.pdf)               |
 | Prisma Finance                 | July 2023 |  EVM       |   [📝](./Prisma%20Finance%20-%20Zellic%20Audit%20Report.pdf)               |
 | StaFi                          | July 2023 |  EVM       |   [📝](./StaFi%20-%20Zellic%20Audit%20Report.pdf)          |
 | Socket Data Layer              | July 2023 |  EVM       |   [📝](./Socket%20Data%20Layer%20-%20Zellic%20Audit%20Report.pdf)          |
