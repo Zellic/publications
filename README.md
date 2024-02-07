@@ -16,7 +16,7 @@
 | Scroll zkEVM part 2            | July 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf)          |
 | Scroll Contracts               | May 2023 |  EVM       |   [📝](./Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)              |
 | Scroll Contracts               | September 2023 |  EVM       |   [📝](./Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)        |
-| GammaSwap                      | August 2023 |  EVM       |   [📝](./GammaSwap%20V1%20Core%20and%20Implementations%20(August,%202023)%20-%20Zellic%20Audit%20Report.pdf) |
+| GammaSwap                      | August 2023 |  EVM       |   [📝](./GammaSwap%20V1%20Core%20and%20Implementations%20(August,%202023)-%20Zellic%20Audit%20Report.pdf) |
 | Privy Shamir Secret Sharing    | August 2023 |  Web       |   [📝](./Privy%20Shamir%20Secret%20Sharing%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Perennial                      | August 2023 |  EVM       |   [📝](./Perennial%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Beefy Token                    | August 2023 |  EVM       |   [📝](./Beefy%20BIFI%20Token%20-%20Zellic%20Audit%20Report.pdf)                  |
@@ -30,7 +30,7 @@
 | Lootrush Custodial Wallet      | July 2023 |  EVM         |   [📝](./LootRush%20-%20Zellic%20Audit%20Report.pdf)                     |
 | Asymmetry Finance - safETH     | July 2023 |  EVM         |   [📝](./Asymmetry%20Finanace%20safETH%20-%20Zellic%20Audit%20Report.pdf)|
 | Mantle                         | July 2023 |  EVM         |     [📝](./Mantle%20-%20Zellic%20Audit%20Report.pdf)                     |
-| GammaSwap                      | June 2023 |  EVM         |     [📝](./GammaSwap%20V1%20Core%20and%20Implementations%20(June,%202023)%20-%20Zellic%20Audit%20Report.pdf) |
+| GammaSwap                      | June 2023 |  EVM         |     [📝](./GammaSwap%20V1%20Core%20and%20Implementations%20(June,%202023)-%20Zellic%20Audit%20Report.pdf) |
 | Aura Finance                   | June 2023 |  EVM         |     [📝](./Aura%20Finance%20-%20Zellic%20Audit%20Report.pdf) |
 | Biconomy Smart Account         | June 2023 |  EVM         |     [📝](./Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf) |
 | Odos Router v2                 | June 2023 |  EVM         |     [📝](./Odos%20-%20Zellic%20Audit%20Report.pdf)                       |
