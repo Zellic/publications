@@ -51,9 +51,11 @@
 | Matrixdock STBT                | Feb 2023 |     EVM     |               [📝](./Matrixdock-STBT%20-%20Zellic%20Audit%20Report.pdf)   |
 | Thala Labs Move Dollar         | Feb 2023 |     Aptos   |  [📝](./Thala%20Labs%20Move%20Dollar%20-%20Zellic%20Audit%20Report.pdf)   |
 | EtherFi                        | Feb 2023 |     EVM     |                  [📝](./EtherFi_-_Zellic_Audit_Report.pdf)                |
+| SpiceFiNFT4626                 | Jan 2023 |     EVM     |                  [📝](./SpiceFiNFT4626%20-%20Zellic%20Audit%20Report.pdf) |
 | Econia                         | Jan 2023 |     EVM     |                          [📝](./Econia%20-%20Zellic%20Audit%20Report.pdf) |
 | Wrapped ETH (WETH9)            | Nov 2022 |     EVM     |   [📝](https://github.com/Zellic/weth)                                    |
 | Solana Foundation SPL Token 2022 | Dec 2022 |   Solana    |               [📝](./SPL%20Token%20-%20Zellic%20Audit%20Report.pdf)     |
+| SpiceFi Vaults                 | Dec 2022 |     EVM     |               [📝](./SpiceFi%20Vaults%20-%20Zellic%20Audit%20Report.pdf)           |
 | Valorem                        | Dec 2022 |     EVM     |               [📝](./Valorem%20-%20Zellic%20Audit%20Report.pdf)           |
 | Multisig Labs - GoGoPool       | Nov 2022 |     Avalanche     |             [📝](./GoGoPool%20-%20Zellic%20Audit%20Report.pdf)      |
 | Spice Fi                       | Nov 2022 |     EVM     |                                                                           |
