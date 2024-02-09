@@ -77,6 +77,7 @@
 | Shrapnel                       | Nov 2022 |     EVM     |                                                                           |
 | Wormhole                       | Nov 2022 |    Aptos    |     [📝](./Wormhole%20Aptos%20-%20Zellic%20Audit%20Report.pdf)            |
 | xRaydium                       | Nov 2022 | EVM, Solana |                                                                           |
+| MSafe                          | Oct 2022 |    Aptos    |     [📝](./MSafe%20-%20Zellic%20Audit%20Report.pdf)            |
 | CoinFx                         | Oct 2022 |   Solana    |                                                                           |
 | Pyth Crosschain                | Oct 2022 | EVM, Solana |                                                                           |
 | Flip                           | Oct 2022 |     EVM     |                                                                           |
