@@ -3,6 +3,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | SupSwap                        | February 2024 |  EVM       |   [📝](./SupSwap%20-%20Zellic%20Audit%20Report.pdf)             |
+| SyncSwap - Aqua Pool           | January 2024 |  EVM       |   [📝](./Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
 | Orderly Network                | November 2023 |  EVM       |   [📝](./Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf)             |
 | GammaSwap Deltaswap            | November 2023 |  EVM       |   [📝](./GammaSwap%20Deltaswap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Secp256r1             | October 2023 |  EVM       |   [📝](./Biconomy%20Secp256r1%20-%20Zellic%20Audit%20Report.pdf)             |
