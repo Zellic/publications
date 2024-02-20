@@ -3,6 +3,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | SupSwap                        | February 2024 |  EVM       |   [📝](./SupSwap%20-%20Zellic%20Audit%20Report.pdf)             |
+| Origami Finance                | January 2024 |  EVM       |   [📝](./ether.fi%20-%20Zellic%20Audit%20Report.pdf)             |
 | ether.fi                       | January 2024 |  EVM       |   [📝](./ether.fi%20-%20Zellic%20Audit%20Report.pdf)             |
 | SyncSwap - Aqua Pool           | January 2024 |  EVM       |   [📝](./Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Ulysses Protocol      | December 2023 |  EVM       |   [📝](./Maia%20DAO%20Ulysses%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
