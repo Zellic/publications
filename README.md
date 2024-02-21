@@ -8,6 +8,7 @@
 | SyncSwap - Aqua Pool           | January 2024 |  EVM       |   [📝](./Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Ulysses Protocol      | December 2023 |  EVM       |   [📝](./Maia%20DAO%20Ulysses%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Avantis                        | December 2023 |  EVM       |   [📝](./Avantis%20-%20Zellic%20Audit%20Report.pdf)             |
+| ZetaChain                      | November 2023 |  Cosmos       |   [📝](./ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf)             |
 | Orderly Network                | November 2023 |  EVM       |   [📝](./Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf)             |
 | GammaSwap Deltaswap            | November 2023 |  EVM       |   [📝](./GammaSwap%20Deltaswap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Osmosis                        | October 2023 |  Cosmos       |   [📝](./Osmosis%20Authentication%20Abstraction%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -31,6 +32,7 @@
 | Beefy Wrapper                  | August 2023 |  EVM       |   [📝](./Beefy%20Wrapper%20-%20Zellic%20Audit%20Report.pdf)                  |
 | ChainLocker                    | August 2023 |  EVM       |   [📝](./ChainLocker%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Hyperliquid                    | August 2023 |  EVM       |   [📝](./Hyperliquid%20-%20Zellic%20Audit%20Report.pdf)                  |
+| ZetaChain                      | July 2023 |  Cosmos       |   [📝](./ZetaChain%20-%207.12.23%20Zellic%20Audit%20Report.pdf)               |
 | Nibiru                         | July 2023 |  Cosmos       |   [📝](./Nibiru%20-%20Zellic%20Audit%20Report.pdf)               |
 | Ethena                         | July 2023 |  EVM       |   [📝](./Ethena%20-%20Zellic%20Audit%20Report.pdf)               |
 | Prisma Finance                 | July 2023 |  EVM       |   [📝](./Prisma%20Finance%20-%20Zellic%20Audit%20Report.pdf)               |
@@ -39,6 +41,7 @@
 | Lootrush Custodial Wallet      | July 2023 |  EVM         |   [📝](./LootRush%20-%20Zellic%20Audit%20Report.pdf)                     |
 | Asymmetry Finance - safETH     | July 2023 |  EVM         |   [📝](./Asymmetry%20Finanace%20safETH%20-%20Zellic%20Audit%20Report.pdf)|
 | Mantle                         | July 2023 |  EVM         |     [📝](./Mantle%20-%20Zellic%20Audit%20Report.pdf)                     |
+| ZetaChain                      | June 2023 |  Cosmos         |     [📝](./ZetaChain%20-%206.30.23%20Zellic%20Audit%20Report.pdf) |
 | GammaSwap                      | June 2023 |  EVM         |     [📝](./GammaSwap%20V1%20Core%20and%20Implementations%20(June,%202023)-%20Zellic%20Audit%20Report.pdf) |
 | Aura Finance                   | June 2023 |  EVM         |     [📝](./Aura%20Finance%20-%20Zellic%20Audit%20Report.pdf) |
 | Biconomy Smart Account         | June 2023 |  EVM         |     [📝](./Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf) |
