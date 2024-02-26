@@ -4,14 +4,20 @@
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | SupSwap                        | February 2024 |  EVM       |   [📝](./SupSwap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chateau                        | February 2024 |  EVM       |   [📝](./Chateau%20-%20Zellic%20Audit%20Report.pdf)             |
+| Biconomy Account Recovery Module Pt. 2  | January 2024 |  EVM       |   [📝](./Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report-II.pdf)             |
 | Origami Finance                | January 2024 |  EVM       |   [📝](./Origami%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | ether.fi                       | January 2024 |  EVM       |   [📝](./ether.fi%20-%20Zellic%20Audit%20Report.pdf)             |
 | SyncSwap - Aqua Pool           | January 2024 |  EVM       |   [📝](./Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
+| Biconomy Multi Owned ECDSA     | December 2023 |  EVM       |   [📝](./Biconomy%20Multi%20Owned%20ECDSA%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Ulysses Protocol      | December 2023 |  EVM       |   [📝](./Maia%20DAO%20Ulysses%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Avantis                        | December 2023 |  EVM       |   [📝](./Avantis%20-%20Zellic%20Audit%20Report.pdf)             |
+| Biconomy Security Policy Plugin   | November 2023 |  EVM       |   [📝](./Biconomy%20Security%20Policy%20Plugin%20-%20Zellic%20Audit%20Report.pdf)             |
+| Biconomy Account Recovery Module  | November 2023 |  EVM         |     [📝](./Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report.pdf)                       |
+| Biconomy SponsorshipPaymaster  | November 2023 |  EVM       |   [📝](./Biconomy%20SponsorshipPaymaster%20-%20Zellic%20Audit%20Report.pdf)             |
 | ZetaChain                      | November 2023 |  Cosmos       |   [📝](./ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf)             |
 | Orderly Network                | November 2023 |  EVM       |   [📝](./Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf)             |
 | GammaSwap Deltaswap            | November 2023 |  EVM       |   [📝](./GammaSwap%20Deltaswap%20-%20Zellic%20Audit%20Report.pdf)             |
+| Biconomy Batched Session Router Module  | October 2023 |  EVM       |   [📝](./Biconomy%20Batched%20Session%20Router%20Module%20-%20Zellic%20Audit%20Report.pdf) |
 | Osmosis                        | October 2023 |  Cosmos       |   [📝](./Osmosis%20Authentication%20Abstraction%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Secp256r1             | October 2023 |  EVM       |   [📝](./Biconomy%20Secp256r1%20-%20Zellic%20Audit%20Report.pdf)             |
 | Spectral Token                 | October 2023 |  EVM       |   [📝](./Spectral%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -26,6 +32,8 @@
 | Scroll zkEVM part 2            | July 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf)          |
 | Scroll Contracts               | May 2023 |  EVM       |   [📝](./Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)              |
 | Scroll Contracts               | September 2023 |  EVM       |   [📝](./Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)        |
+| Biconomy PasskeyRegistry and SessionKeyManager  | August 2023 |  EVM       |   [📝](./Biconomy%20PasskeyRegistry%20and%20SessionKeyManager%20Zellic%20Audit%20Report.pdf)                  |
+| Biconomy Multichain Validator  | August 2023 |  EVM       |   [📝](./Biconomy%20Multichain%20Validator%20-%20Zellic%20Audit%20Report.pdf) |
 | GammaSwap                      | August 2023 |  EVM       |   [📝](./GammaSwap%20V1%20Core%20and%20Implementations%20(August,%202023)-%20Zellic%20Audit%20Report.pdf) |
 | Privy Shamir Secret Sharing    | August 2023 |  Web       |   [📝](./Privy%20Shamir%20Secret%20Sharing%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Perennial                      | August 2023 |  EVM       |   [📝](./Perennial%20-%20Zellic%20Audit%20Report.pdf)                  |
@@ -47,6 +55,7 @@
 | Aura Finance                   | June 2023 |  EVM         |     [📝](./Aura%20Finance%20-%20Zellic%20Audit%20Report.pdf) |
 | Biconomy Smart Account         | June 2023 |  EVM         |     [📝](./Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf) |
 | Odos Router v2                 | June 2023 |  EVM         |     [📝](./Odos%20-%20Zellic%20Audit%20Report.pdf)                       |
+| Biconomy Token Paymaster       | May 2023 |  EVM         |     [📝](./Biconomy%20Token%20Paymaster%20-%20Zellic%20Audit%20Report.pdf)                       |
 | SyncSwap                       | May 2023 |  EVM         |     [📝](./SyncSwap%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Mysten Labs - Move and Sui     | May 2023  |  Move        |   [📝](./Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf)|
 | Cosmos SDK Sign Mode Textual   | May 2023 |  Cosmos     |     [📝](./Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf)|
