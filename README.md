@@ -8,6 +8,7 @@
 | Origami Finance                | January 2024 |  EVM       |   [📝](./Origami%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | ether.fi                       | January 2024 |  EVM       |   [📝](./ether.fi%20-%20Zellic%20Audit%20Report.pdf)             |
 | SyncSwap - Aqua Pool           | January 2024 |  EVM       |   [📝](./Aqua%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
+| Chainflip                      | December 2023 |  EVM       |   [📝](./Chainflip%20Backend%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Multi Owned ECDSA     | December 2023 |  EVM       |   [📝](./Biconomy%20Multi%20Owned%20ECDSA%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Ulysses Protocol      | December 2023 |  EVM       |   [📝](./Maia%20DAO%20Ulysses%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Avantis                        | December 2023 |  EVM       |   [📝](./Avantis%20-%20Zellic%20Audit%20Report.pdf)             |
