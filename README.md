@@ -13,6 +13,7 @@
 | Biconomy Multi Owned ECDSA     | December 2023 |  EVM       |   [📝](./Biconomy%20Multi%20Owned%20ECDSA%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Ulysses Protocol      | December 2023 |  EVM       |   [📝](./Maia%20DAO%20Ulysses%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Avantis                        | December 2023 |  EVM       |   [📝](./Avantis%20-%20Zellic%20Audit%20Report.pdf)             |
+| Hyperliquid Patch Review       | November 2023 |  EVM       |   [📝](./Hyperliquid%20November%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Security Policy Plugin   | November 2023 |  EVM       |   [📝](./Biconomy%20Security%20Policy%20Plugin%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Account Recovery Module  | November 2023 |  EVM         |     [📝](./Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Biconomy SponsorshipPaymaster  | November 2023 |  EVM       |   [📝](./Biconomy%20SponsorshipPaymaster%20-%20Zellic%20Audit%20Report.pdf)             |
