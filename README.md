@@ -2,6 +2,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| SAX                            | February 2024 |  EVM       |   [📝](./SAX%20-%20Zellic%20Audit%20sReport.pdf)             |
 | SupSwap                        | February 2024 |  EVM       |   [📝](./SupSwap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chateau                        | February 2024 |  EVM       |   [📝](./Chateau%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Account Recovery Module Pt. 2  | January 2024 |  EVM       |   [📝](./Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report-II.pdf)             |
