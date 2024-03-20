@@ -2,6 +2,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Biconomy Smart Account Patch Review  | February 2024 |  EVM       |   [📝](./Biconomy%20Smart%20Account%20Patch%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
 | SAX                            | February 2024 |  EVM       |   [📝](./SAX%20-%20Zellic%20Audit%20sReport.pdf)             |
 | SupSwap                        | February 2024 |  EVM       |   [📝](./SupSwap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chateau                        | February 2024 |  EVM       |   [📝](./Chateau%20-%20Zellic%20Audit%20Report.pdf)             |
