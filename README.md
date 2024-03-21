@@ -60,6 +60,7 @@
 | Aura Finance                   | June 2023 |  EVM         |     [📝](./Aura%20Finance%20-%20Zellic%20Audit%20Report.pdf) |
 | Biconomy Smart Account         | June 2023 |  EVM         |     [📝](./Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf) |
 | Odos Router v2                 | June 2023 |  EVM         |     [📝](./Odos%20-%20Zellic%20Audit%20Report.pdf)                       |
+| H2O vIPSDN                     | May 2023 |  EVM         |     [📝](./H20%20vlPSDN%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Rainmaker                      | May 2023 |  EVM         |     [📝](./Rainmaker%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Biconomy Token Paymaster       | May 2023 |  EVM         |     [📝](./Biconomy%20Token%20Paymaster%20-%20Zellic%20Audit%20Report.pdf)                       |
 | SyncSwap                       | May 2023 |  EVM         |     [📝](./SyncSwap%20-%20Zellic%20Audit%20Report.pdf)                       |
