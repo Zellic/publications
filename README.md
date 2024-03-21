@@ -67,6 +67,7 @@
 | Cosmos SDK Sign Mode Textual   | May 2023 |  Cosmos     |     [📝](./Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf)|
 | Maia DAO Ulysses Protocol      | May 2023 |     EVM     |     [📝](./Maia%20DAO%20Ulysses%20Protocol%20May%202023%20-%20Zellic%20Audit%20Report.pdf)          |
 | Maia DAO                       | Feb 2023 |     EVM     |     [📝](./Maia%20DAO%20February%202023%20-%20Zellic%20Audit%20Report.pdf)|
+| Vendor Finance                 | April 2023 |     EVM     |     [📝](./Vendor%20Finance%20-%20Zellic%20Audit%20Report.pdf)          |
 | Wasabi                         | April 2023 |     EVM     |     [📝](./Wasabi%20-%20Zellic%20Audit%20Report.pdf)          |
 | STFX                           | April 2023 |     EVM     |     [📝](./STFX%20-%20Zellic%20Audit%20Report.pdf)          |
 | Valorem Optiions               | April 2023 |     EVM     |     [📝](./Valorem%20Options%20-%20Zellic%20Audit%20Report.pdf)          |
