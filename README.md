@@ -121,6 +121,7 @@
 | MomentumSafe                   | Sep 2022 |    Aptos    |                                                                           |
 | Hippo Labs                     | Sep 2022 |    Aptos    |                                                                           |
 | Alkimiya                       | Aug 2022 |     EVM     |                                                                           |
+| CrocSwap                       | Aug 2022 |     EVM     |              [📝](./CrocSwap%20-%20Zellic%20Audit%20Report.pdf)              |
 | Valts                          | Sep 2022 |     EVM     |              [📝](./Valts%20-%20Zellic%20Audit%20Report.pdf)              |
 | Empiric Network                | Aug 2022 |  Starknet   |      [📝](./Empiric%20Oracle%20-%20Zellic%20Audit%20Report.pdf)           |
 | Yuga Labs                      | Jun 2022 |     EVM     |                                                                           |
