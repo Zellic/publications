@@ -142,6 +142,7 @@
 | Dfyn RFQ                       | Aug 2022 |     EVM     |       [📝](./DFYN%20RFQ%20-%20Zellic%20Audit%20Report.pdf)                |
 | Porter Finance                 | Apr 2022 |     EVM     |                                                                           |
 | Muni                           | May 2022 |     EVM     |      [📝](./Muni%20-%20Zellic%20Audit%20Report.pdf)                       |
+| Ionic Protocol                 | May 2022 |     EVM     | [📝](./Ionic%20Protocol%20-%20Zellic%20Audit%20Report.pdf) |
 | Maverick                       | May 2022 |     EVM     | [📝](./Maverick%20Protocol%20-%20Zellic%20Security%20Assessment%20Report.pdf) |
 | Limit Break                    | Aug 2022 |     EVM     |                                                                           |
 | Limit Break                    | Aug 2022 |     EVM     |                                                                           |
