@@ -33,6 +33,7 @@
 | Spectral Token                 | October 2023 |  EVM       |   [📝](./Spectral%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nukem Loans                    | October 2023 |  EVM       |   [📝](./Nukem%20Loans%20-%20Zellic%20Audit%20Report.pdf)             |
 | GotSui                         | October 2023 |  Move       |   [📝](./GotSui%20-%20Zellic%20Audit%20Report.pdf)             |
+| Maia DAO V2 Ecosystem          | September 2023 |  EVM       |   [📝](./Maia%20DAO%20V2%20Ecosystem%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sturdy Finance                 | September 2023 |  EVM       |   [📝](./Sturdy%20-%20Zellic%20Audit%20Report.pdf)             |
 | GammaSwap Staking              | September 2023 |  EVM       |   [📝](./GammaSwap%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sushiswap SushiXSwap V2        | August 2023 |  EVM       |   [📝](./SushiXSwap%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
