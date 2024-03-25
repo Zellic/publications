@@ -1,5 +1,9 @@
 # Zellic's audit reports and publications
 
+**Our audit reports are also available in HTML form on the web at [reports.zellic.io](https://reports.zellic.io)**!
+
+## Audit Reports
+
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Molend Protocol                | March 2024 |  EVM       |   [📝](./Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
