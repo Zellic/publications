@@ -8,6 +8,7 @@
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Molend Protocol                | March 2024 |  EVM       |   [📝](./Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Smart Account Patch Review  | February 2024 |  EVM       |   [📝](./Biconomy%20Smart%20Account%20Patch%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
+| Euler Fee Flow                 | February 2024 |  EVM       |   [📝](./Euler%20Fee%20Flow%20-%20Zellic%20Audit%20Report.pdf)             |
 | SAX                            | February 2024 |  EVM       |   [📝](./SAX%20-%20Zellic%20Audit%20sReport.pdf)             |
 | SupSwap                        | February 2024 |  EVM       |   [📝](./SupSwap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chateau                        | February 2024 |  EVM       |   [📝](./Chateau%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -75,6 +76,7 @@
 | Cosmos SDK Sign Mode Textual   | May 2023 |  Cosmos     |     [📝](./Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf)|
 | Maia DAO Ulysses Protocol      | May 2023 |     EVM     |     [📝](./Maia%20DAO%20Ulysses%20Protocol%20May%202023%20-%20Zellic%20Audit%20Report.pdf)          |
 | Maia DAO                       | Feb 2023 |     EVM     |     [📝](./Maia%20DAO%20February%202023%20-%20Zellic%20Audit%20Report.pdf)|
+| Euler                          | April 2023 |     EVM     |     [📝](./Euler%20-%20Zellic%20Audit%20Report.pdf)          |
 | Fractal Protocol               | April 2023 |     EVM     |     [📝](./Fractal%20Protocol%20v2-%20Zellic%20Audit%20Report.pdf)          |
 | Vendor Finance                 | April 2023 |     EVM     |     [📝](./Vendor%20Finance%20-%20Zellic%20Audit%20Report.pdf)          |
 | Wasabi                         | April 2023 |     EVM     |     [📝](./Wasabi%20-%20Zellic%20Audit%20Report.pdf)          |
