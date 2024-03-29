@@ -44,6 +44,7 @@
 | Scroll zkEVM part 2            | July 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf)          |
 | Scroll Contracts               | May 2023 |  EVM       |   [📝](./Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)              |
 | Scroll Contracts               | September 2023 |  EVM       |   [📝](./Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)        |
+| LightWallet                    | August 2023 |  EVM       |   [📝](./LightWallet%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Biconomy PasskeyRegistry and SessionKeyManager  | August 2023 |  EVM       |   [📝](./Biconomy%20PasskeyRegistry%20and%20SessionKeyManager%20Zellic%20Audit%20Report.pdf)                  |
 | Biconomy Multichain Validator  | August 2023 |  EVM       |   [📝](./Biconomy%20Multichain%20Validator%20-%20Zellic%20Audit%20Report.pdf) |
 | GammaSwap                      | August 2023 |  EVM       |   [📝](./GammaSwap%20V1%20Core%20and%20Implementations%20(August,%202023)-%20Zellic%20Audit%20Report.pdf) |
