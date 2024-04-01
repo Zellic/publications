@@ -54,6 +54,7 @@
 | Beefy Wrapper                  | August 2023 |  EVM       |   [📝](./Beefy%20Wrapper%20-%20Zellic%20Audit%20Report.pdf)                  |
 | ChainLocker                    | August 2023 |  EVM       |   [📝](./ChainLocker%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Hyperliquid                    | August 2023 |  EVM       |   [📝](./Hyperliquid%20-%20Zellic%20Audit%20Report.pdf)                  |
+| MightyNetERC1155Claimer        | July 2023 |  EVM         |   [📝](./MightyNetERC1155Claimer%20-%20Zellic%20Audit%20Report.pdf)               |
 | ZetaChain                      | July 2023 |  Cosmos       |   [📝](./ZetaChain%20-%207.12.23%20Zellic%20Audit%20Report.pdf)               |
 | Nibiru                         | July 2023 |  Cosmos       |   [📝](./Nibiru%20-%20Zellic%20Audit%20Report.pdf)               |
 | Ethena                         | July 2023 |  EVM       |   [📝](./Ethena%20-%20Zellic%20Audit%20Report.pdf)               |
@@ -68,6 +69,7 @@
 | Aura Finance                   | June 2023 |  EVM         |     [📝](./Aura%20Finance%20-%20Zellic%20Audit%20Report.pdf) |
 | Biconomy Smart Account         | June 2023 |  EVM         |     [📝](./Biconomy%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf) |
 | Odos Router v2                 | June 2023 |  EVM         |     [📝](./Odos%20-%20Zellic%20Audit%20Report.pdf)                       |
+| MightyNet                      | May 2023 |  EVM         |     [📝](./MightyNet%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Steer                          | May 2023 |  EVM         |     [📝](./Steer%20-%20Zellic%20Audit%20Report.pdf)                       |
 | H2O vIPSDN                     | May 2023 |  EVM         |     [📝](./H20%20vlPSDN%20-%20Zellic%20Audit%20Report.pdf)                       |
 | Rainmaker                      | May 2023 |  EVM         |     [📝](./Rainmaker%20-%20Zellic%20Audit%20Report.pdf)                       |
