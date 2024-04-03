@@ -48,7 +48,7 @@
 | Biconomy PasskeyRegistry and SessionKeyManager  | August 2023 |  EVM       |   [📝](./Biconomy%20PasskeyRegistry%20and%20SessionKeyManager%20Zellic%20Audit%20Report.pdf)                  |
 | Biconomy Multichain Validator  | August 2023 |  EVM       |   [📝](./Biconomy%20Multichain%20Validator%20-%20Zellic%20Audit%20Report.pdf) |
 | GammaSwap                      | August 2023 |  EVM       |   [📝](./GammaSwap%20V1%20Core%20and%20Implementations%20(August,%202023)-%20Zellic%20Audit%20Report.pdf) |
-| Privy Shamir Secret Sharing    | August 2023 |  Web       |   [📝](./Privy%20Shamir%20Secret%20Sharing%20-%20Zellic%20Audit%20Report.pdf)                  |
+| Privy Shamir Secret Sharing    | August 2023 |  Web       |   [📝](./Privy_Shamir_Secret_Sharing_-_Zellic_Audit_Report.pdf)                  |
 | Perennial                      | August 2023 |  EVM       |   [📝](./Perennial%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Beefy Token                    | August 2023 |  EVM       |   [📝](./Beefy%20BIFI%20Token%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Beefy Wrapper                  | August 2023 |  EVM       |   [📝](./Beefy%20Wrapper%20-%20Zellic%20Audit%20Report.pdf)                  |
