@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Celestia Blobstream X          | March 2024 |  EVM       |   [📝](./Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf)             |
 | Molend Protocol                | March 2024 |  EVM       |   [📝](./Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Smart Account Patch Review  | February 2024 |  EVM       |   [📝](./Biconomy%20Smart%20Account%20Patch%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
 | Euler Fee Flow                 | February 2024 |  EVM       |   [📝](./Euler%20Fee%20Flow%20-%20Zellic%20Audit%20Report.pdf)             |
