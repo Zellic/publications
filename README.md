@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| EtherFi                        | March 2024 |  EVM       |   [📝](./EtherFi%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero DVN                  | March 2024 |  EVM       |   [📝](./LayerZero%20DVN%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astroport                      | March 2024 |  Cosmos    |   [📝](./Astroport%20Pair%20XYK%20Sale%20Tax%20-%20Zellic%20Audit%20Report.pdf)             |
 | Celestia Blobstream X          | March 2024 |  EVM       |   [📝](./Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf)             |
