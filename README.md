@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Definitive                     | March 2024 |  EVM       |   [📝](./Definitive%202024%20-%20Zellic%20Audit%20Report.pdf)             |
 | EtherFi                        | March 2024 |  EVM       |   [📝](./EtherFi%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero DVN                  | March 2024 |  EVM       |   [📝](./LayerZero%20DVN%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astroport                      | March 2024 |  Cosmos    |   [📝](./Astroport%20Pair%20XYK%20Sale%20Tax%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -43,6 +44,7 @@
 | Spectral Token                 | October 2023 |  EVM       |   [📝](./Spectral%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nukem Loans                    | October 2023 |  EVM       |   [📝](./Nukem%20Loans%20-%20Zellic%20Audit%20Report.pdf)             |
 | GotSui                         | October 2023 |  Move       |   [📝](./GotSui%20-%20Zellic%20Audit%20Report.pdf)             |
+| Definitive LLSD                | September 2023 |  EVM       |   [📝](./Definitive%20LLSD%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO V2 Ecosystem          | September 2023 |  EVM       |   [📝](./Maia%20DAO%20V2%20Ecosystem%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sturdy Finance                 | September 2023 |  EVM       |   [📝](./Sturdy%20-%20Zellic%20Audit%20Report.pdf)             |
 | GammaSwap Staking              | September 2023 |  EVM       |   [📝](./GammaSwap%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -53,6 +55,7 @@
 | Scroll zkEVM part 2            | July 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf)          |
 | Scroll Contracts               | May 2023 |  EVM       |   [📝](./Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)              |
 | Scroll Contracts               | September 2023 |  EVM       |   [📝](./Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)        |
+| Definitive                     | August 2023 |  EVM       |   [📝](./Definitive%20-%20Zellic%20Audit%20Report.pdf)                  |
 | LightWallet                    | August 2023 |  EVM       |   [📝](./LightWallet%20-%20Zellic%20Audit%20Report.pdf)                  |
 | LayerZero Endpoint V2 (Verifier Network) | August 2023 |  EVM       |   [📝](./LayerZero%20Endpoint%20V2%20(VerifierNetwork)%20-%20Zellic%20Audit%20Report.pdf) |
 | Biconomy PasskeyRegistry and SessionKeyManager  | August 2023 |  EVM       |   [📝](./Biconomy%20PasskeyRegistry%20and%20SessionKeyManager%20Zellic%20Audit%20Report.pdf)                  |
