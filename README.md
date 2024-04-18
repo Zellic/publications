@@ -55,6 +55,7 @@
 | Scroll zkEVM part 2            | July 2023 |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf)          |
 | Scroll Contracts               | May 2023 |  EVM       |   [📝](./Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)              |
 | Scroll Contracts               | September 2023 |  EVM       |   [📝](./Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)        |
+| Reserve Throttle Wallet        | August 2023 |  EVM       |   [📝](./Reserve%20Throttle%20Wallet%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Definitive                     | August 2023 |  EVM       |   [📝](./Definitive%20-%20Zellic%20Audit%20Report.pdf)                  |
 | LightWallet                    | August 2023 |  EVM       |   [📝](./LightWallet%20-%20Zellic%20Audit%20Report.pdf)                  |
 | LayerZero Endpoint V2 (Verifier Network) | August 2023 |  EVM       |   [📝](./LayerZero%20Endpoint%20V2%20(VerifierNetwork)%20-%20Zellic%20Audit%20Report.pdf) |
