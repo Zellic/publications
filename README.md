@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Silo Staking                   | March 2024 |  Cosmos    |   [📝](./Silo%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | Definitive                     | March 2024 |  EVM       |   [📝](./Definitive%202024%20-%20Zellic%20Audit%20Report.pdf)             |
 | EtherFi                        | March 2024 |  EVM       |   [📝](./EtherFi%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero DVN                  | March 2024 |  EVM       |   [📝](./LayerZero%20DVN%20-%20Zellic%20Audit%20Report.pdf)             |
