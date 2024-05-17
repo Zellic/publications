@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Adrastia PID Controller        | May 2024   |  EVM       |   [📝](./Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf)             |
 | Inference Labs - Omron         | April 2024 |  EVM       |   [📝](./Omron%20-%20Zellic%20Audit%20Report.pdf)             |
 | Omni Network                   | March 2024 |  EVM       |   [📝](./Omni%20AVS%20-%20Zellic%20Audit%20Report.pdf)             |
 | Silo Staking                   | March 2024 |  Cosmos    |   [📝](./Silo%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -23,6 +24,7 @@
 | SAX                            | February 2024 |  EVM       |   [📝](./SAX%20-%20Zellic%20Audit%20sReport.pdf)             |
 | SupSwap                        | February 2024 |  EVM       |   [📝](./SupSwap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chateau                        | February 2024 |  EVM       |   [📝](./Chateau%20-%20Zellic%20Audit%20Report.pdf)             |
+| Adrastia Protocol              | January 2024 |  EVM       |   [📝](./Adrastia%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll Lido Gateway            | January 2024 |  EVM       |   [📝](./Scroll%20Lido%20Gateway%20-%20Zellic%20Audit%20Report.pdf)             |
 | Solana Single Pool             | January 2024 |  Solana     |   [📝](./Single%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Account Recovery Module Pt. 2  | January 2024 |  EVM       |   [📝](./Biconomy%20Account%20Recovery%20Module%20-%20Zellic%20Audit%20Report-II.pdf)             |
