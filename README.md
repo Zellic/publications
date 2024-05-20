@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Trillion                       | May 2024   |  EVM       |   [📝](./Trillion%20-%20Zellic%20Audit%20Report.pdf)             |
 | Adrastia PID Controller        | May 2024   |  EVM       |   [📝](./Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf)             |
 | Inference Labs - Omron         | April 2024 |  EVM       |   [📝](./Omron%20-%20Zellic%20Audit%20Report.pdf)             |
 | Omni Network                   | March 2024 |  EVM       |   [📝](./Omni%20AVS%20-%20Zellic%20Audit%20Report.pdf)             |
