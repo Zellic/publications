@@ -50,6 +50,7 @@
 | Orderly Network                | November 2023 |  EVM       |   [📝](./Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf)             |
 | GammaSwap Deltaswap            | November 2023 |  EVM       |   [📝](./GammaSwap%20Deltaswap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Y2K Finance                    | October 2023 |  EVM       |   [📝](./Y2K%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
+| Nocturne                       | October 2023 |  EVM       |   [📝](./Nocturne%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Batched Session Router Module  | October 2023 |  EVM       |   [📝](./Biconomy%20Batched%20Session%20Router%20Module%20-%20Zellic%20Audit%20Report.pdf) |
 | Osmosis                        | October 2023 |  Cosmos       |   [📝](./Osmosis%20Authentication%20Abstraction%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Secp256r1             | October 2023 |  EVM       |   [📝](./Biconomy%20Secp256r1%20-%20Zellic%20Audit%20Report.pdf)             |
