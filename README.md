@@ -10,6 +10,7 @@
 | Trillion                       | May 2024   |  EVM       |   [📝](./Trillion%20-%20Zellic%20Audit%20Report.pdf)             |
 | Adrastia PID Controller        | May 2024   |  EVM       |   [📝](./Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf)             |
 | Inference Labs - Omron         | April 2024 |  EVM       |   [📝](./Omron%20-%20Zellic%20Audit%20Report.pdf)             |
+| Cozy Finance                   | March 2024 |  EVM       |   [📝](./Safety%20Module%20-%20Zellic%20Audit%20Report.pdf)             |
 | Omni Network                   | March 2024 |  EVM       |   [📝](./Omni%20AVS%20-%20Zellic%20Audit%20Report.pdf)             |
 | Silo Staking                   | March 2024 |  Cosmos    |   [📝](./Silo%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | Definitive                     | March 2024 |  EVM       |   [📝](./Definitive%202024%20-%20Zellic%20Audit%20Report.pdf)             |
