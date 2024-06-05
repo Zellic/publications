@@ -9,6 +9,7 @@
 | Anzen Finance                  | May 2024   |  EVM       |   [📝](./Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Trillion                       | May 2024   |  EVM       |   [📝](./Trillion%20-%20Zellic%20Audit%20Report.pdf)             |
 | Adrastia PID Controller        | May 2024   |  EVM       |   [📝](./Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf)             |
+| WOOFi Swap                     | April 2024 |  EVM       |   [📝](./WOOFi%20Swap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Singularity                    | April 2024 |  EVM       |   [📝](./Singularity%20-%20Zellic%20Audit%20Report.pdf)             |
 | Inference Labs - Omron         | April 2024 |  EVM       |   [📝](./Omron%20-%20Zellic%20Audit%20Report.pdf)             |
 | Suilend                        | March 2024 |  Move      |   [📝](./Suilend%20-%20Zellic%20Audit%20Report.pdf)             |
