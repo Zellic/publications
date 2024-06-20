@@ -13,6 +13,7 @@
 | Trillion                       | May 2024   |  EVM       |   [📝](./Trillion%20-%20Zellic%20Audit%20Report.pdf)             |
 | Adrastia PID Controller        | May 2024   |  EVM       |   [📝](./Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf)             |
 | Lorenzo Protocol               | April 2024 |  EVM       |   [📝](./Lorenzo%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| Bracket Fi                     | April 2024 |  EVM       |   [📝](./Bracket%20Fi%20Escrow%20-%20Zellic%20Audit%20Report.pdf)             |
 | Hydrogen Labs                  | April 2024 |  EVM       |   [📝](./Hydrogen%20Labs%20Rover%20-%20Zellic%20Audit%20Report.pdf)             |
 | WOOFi Swap                     | April 2024 |  EVM       |   [📝](./WOOFi%20Swap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Singularity                    | April 2024 |  EVM       |   [📝](./Singularity%20-%20Zellic%20Audit%20Report.pdf)             |
