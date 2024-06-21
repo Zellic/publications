@@ -9,6 +9,7 @@
 | Alkimiya                       | June 2024  |  EVM       |   [📝](./Alkimiya%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll zkEVM                   | June 2024  |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yei Finance                    | June 2024  |  EVM       |   [📝](./Yei%20Finance%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
+| Awaken Snap                    | May 2024   |  AElf      |   [📝](./Awaken%20Swap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Anzen Finance                  | May 2024   |  EVM       |   [📝](./Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Trillion                       | May 2024   |  EVM       |   [📝](./Trillion%20-%20Zellic%20Audit%20Report.pdf)             |
 | Adrastia PID Controller        | May 2024   |  EVM       |   [📝](./Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf)             |
