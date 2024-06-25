@@ -7,6 +7,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Initia                         | June 2024  |  Move       |   [📝](./Initia%20-%20Zellic%20Audit%20Report.pdf)             |
+| Chirp Network                  | June 2024  |  Move       |   [📝](./Chirp%20Network%20-%20Zellic%20Audit%20Report.pdf)             |
 | Alkimiya                       | June 2024  |  EVM       |   [📝](./Alkimiya%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll zkEVM                   | June 2024  |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yei Finance                    | June 2024  |  EVM       |   [📝](./Yei%20Finance%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
