@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Session Token                  | July 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
 | StakeKit                       | June 2024  |  EVM       |   [📝](./StakeKit%20FeeWrapper%20-%20Zellic%20Audit%20Report.pdf)             |
 | warpdotgreen                   | June 2024  |  EVM       |   [📝](./warpdotgreen-cli%20-%20Zellic%20Audit%20Report.pdf)             |
 | Initia                         | June 2024  |  Move       |   [📝](./Initia%20-%20Zellic%20Audit%20Report.pdf)             |
