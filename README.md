@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Paragon DAO                    | July 2024  |  EVM       |   [📝](./PDT%20Staking%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mitosis                        | July 2024  |  EVM       |   [📝](./Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | Session Token                  | July 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
 | eBridge AElf Bridge            | June 2024  |  AElf      |   [📝](./eBridge%20AElf%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
