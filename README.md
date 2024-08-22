@@ -29,6 +29,7 @@
 | WOOFi Swap                     | April 2024 |  EVM       |   [📝](./WOOFi%20Swap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Singularity                    | April 2024 |  EVM       |   [📝](./Singularity%20-%20Zellic%20Audit%20Report.pdf)             |
 | Inference Labs - Omron         | April 2024 |  EVM       |   [📝](./Omron%20-%20Zellic%20Audit%20Report.pdf)             |
+| Palmy Finance                  | March 2024 |  EVM       |   [📝](./Palmy%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Penumbra                       | March 2024 |  Cosmos    |   [📝](./Penumbra%20-%20Zellic%20Audit%20Report.pdf)             |
 | Suilend                        | March 2024 |  Move      |   [📝](./Suilend%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cozy Finance                   | March 2024 |  EVM       |   [📝](./Safety%20Module%20-%20Zellic%20Audit%20Report.pdf)             |
