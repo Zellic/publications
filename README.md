@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| SatLayer                       | July 2024  |  EVM       |   [📝](./SatLayer%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
 | Paragon DAO                    | July 2024  |  EVM       |   [📝](./PDT%20Staking%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mitosis                        | July 2024  |  EVM       |   [📝](./Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | Session Token                  | July 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
