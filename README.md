@@ -42,6 +42,7 @@
 | Celestia Blobstream X          | March 2024 |  EVM       |   [📝](./Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf)             |
 | Molend Protocol                | March 2024 |  EVM       |   [📝](./Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Family Wallet                  | February 2024 |  iOS       |   [📝](./Family%20Wallet%20-%20Zellic%20Audit%20Report.pdf)             |
+| Ostium                         | February 2024 |  EVM       |   [📝](./Ostium%20-%20Zellic%20Audit%20Report.pdf)             |
 | Blackwing                      | February 2024 |  EVM       |   [📝](./Blackwing%20-%20Zellic%20Audit%20Report.pdf)             |
 | Bloom                          | February 2024 |  EVM       |   [📝](./Bloom%20Trading%20-%20Zellic%20Audit%20Report.pdf)             |
 | Beefy UniswapV3                | February 2024 |  EVM       |   [📝](./Beefy%20UniswapV3%20-%20Zellic%20Audit%20Report.pdf)             |
