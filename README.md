@@ -64,6 +64,7 @@
 | Biconomy Multi Owned ECDSA     | December 2023 |  EVM       |   [📝](./Biconomy%20Multi%20Owned%20ECDSA%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Ulysses Protocol      | December 2023 |  EVM       |   [📝](./Maia%20DAO%20Ulysses%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Avantis                        | December 2023 |  EVM       |   [📝](./Avantis%20-%20Zellic%20Audit%20Report.pdf)             |
+| Axiom                          | November 2023 |  EVM       |   [📝](./Axiom%20November%20-%20Zellic%20Audit%20Report.pdf)             |
 | Spectral Modelers              | November 2023 |  EVM       |   [📝](./Spectral%20Modelers%20-%20Zellic%20Audit%20Report.pdf)             |
 | Hyperliquid Patch Review       | November 2023 |  EVM       |   [📝](./Hyperliquid%20November%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Security Policy Plugin   | November 2023 |  EVM       |   [📝](./Biconomy%20Security%20Policy%20Plugin%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -72,6 +73,7 @@
 | ZetaChain                      | November 2023 |  Cosmos       |   [📝](./ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf)             |
 | Orderly Network                | November 2023 |  EVM       |   [📝](./Orderly%20Network%20-%20Zellic%20Audit%20Report.pdf)             |
 | GammaSwap Deltaswap            | November 2023 |  EVM       |   [📝](./GammaSwap%20Deltaswap%20-%20Zellic%20Audit%20Report.pdf)             |
+| Axiom                          | October 2023 |  EVM       |   [📝](./Axiom%20October%20-%20Zellic%20Audit%20Report.pdf)             |
 | Y2K Finance                    | October 2023 |  EVM       |   [📝](./Y2K%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nocturne                       | October 2023 |  EVM       |   [📝](./Nocturne%20-%20Zellic%20Audit%20Report.pdf)             |
 | Biconomy Batched Session Router Module  | October 2023 |  EVM       |   [📝](./Biconomy%20Batched%20Session%20Router%20Module%20-%20Zellic%20Audit%20Report.pdf) |
