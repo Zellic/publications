@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Saffron                        | September 2024  |  EVM       |   [📝](./Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chainflip Solana               | August 2024  |  Solana     |   [📝](./Chainflip%20Solana%20-%20Zellic%20Audit%20Report.pdf)             |
 | SatLayer                       | July 2024  |  EVM       |   [📝](./SatLayer%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
 | Paragon DAO                    | July 2024  |  EVM       |   [📝](./PDT%20Staking%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
