@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Acctual                        | September 2024  |  EVM       |   [📝](./Acctual%20Batch%20Payments%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | September 2024  |  EVM       |   [📝](./Yeet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Saffron                        | September 2024  |  EVM       |   [📝](./Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chainflip Solana               | August 2024  |  Solana     |   [📝](./Chainflip%20Solana%20-%20Zellic%20Audit%20Report.pdf)             |
