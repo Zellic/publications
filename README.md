@@ -50,6 +50,7 @@
 | Astroport                      | March 2024 |  Cosmos    |   [📝](./Astroport%20Pair%20XYK%20Sale%20Tax%20-%20Zellic%20Audit%20Report.pdf)             |
 | Celestia Blobstream X          | March 2024 |  EVM       |   [📝](./Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf)             |
 | Molend Protocol                | March 2024 |  EVM       |   [📝](./Molend%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| Polyhedra DVN                  | February 2024 |  EVM       |   [📝](./Polyhedra%20DVN%20-%20Zellic%20Audit%20Report.pdf)             |
 | Family Wallet                  | February 2024 |  iOS       |   [📝](./Family%20Wallet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Ostium                         | February 2024 |  EVM       |   [📝](./Ostium%20-%20Zellic%20Audit%20Report.pdf)             |
 | Blackwing                      | February 2024 |  EVM       |   [📝](./Blackwing%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -115,6 +116,7 @@
 | Beefy Wrapper                  | August 2023 |  EVM       |   [📝](./Beefy%20Wrapper%20-%20Zellic%20Audit%20Report.pdf)                  |
 | ChainLocker                    | August 2023 |  EVM       |   [📝](./ChainLocker%20-%20Zellic%20Audit%20Report.pdf)                  |
 | Hyperliquid                    | August 2023 |  EVM       |   [📝](./Hyperliquid%20-%20Zellic%20Audit%20Report.pdf)                  |
+| Polyhedra                      | July 2023 |  EVM       |   [📝](./Polyhedra%20zk%20light%20client%20on%20LayerZero%20-%20Zellic%20Audit%20Report.pdf)               |
 | MightyNetERC1155Claimer        | July 2023 |  EVM         |   [📝](./MightyNetERC1155Claimer%20-%20Zellic%20Audit%20Report.pdf)               |
 | ZetaChain                      | July 2023 |  Cosmos       |   [📝](./ZetaChain%20-%207.12.23%20Zellic%20Audit%20Report.pdf)               |
 | Nibiru                         | July 2023 |  Cosmos       |   [📝](./Nibiru%20-%20Zellic%20Audit%20Report.pdf)               |
