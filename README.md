@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Ooga Booga                     | September 2024  |  EVM       |   [📝](./Ooga%20Booga%20-%20Zellic%20Audit%20Report.pdf)             |
 | Level                          | September 2024  |  EVM       |   [📝](./Level%20Points%20Farm%20-%20Zellic%20Audit%20Report.pdf)             |
 | Acctual                        | September 2024  |  EVM       |   [📝](./Acctual%20Batch%20Payments%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | September 2024  |  EVM       |   [📝](./Yeet%20-%20Zellic%20Audit%20Report.pdf)             |
