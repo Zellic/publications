@@ -11,6 +11,7 @@
 | Acctual                        | September 2024  |  EVM       |   [📝](./Acctual%20Batch%20Payments%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | September 2024  |  EVM       |   [📝](./Yeet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Saffron                        | September 2024  |  EVM       |   [📝](./Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf)             |
+| WOOFI Stake                    | August 2024  |  EVM        |   [📝](./WOOFI%20Stake%20-%20Zellic%20Audit%20Report.pdf)             |
 | Celestia PFM                   | August 2024  |  Cosmos     |   [📝](./Celestia%20Packet%20Forward%20Middleware%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chainflip Solana               | August 2024  |  Solana     |   [📝](./Chainflip%20Solana%20-%20Zellic%20Audit%20Report.pdf)             |
 | Echelon                        | July 2024  |  Move       |   [📝](./Echelon%20-%20Zellic%20Audit%20Report.pdf)             |
