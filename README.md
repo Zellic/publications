@@ -18,6 +18,7 @@
 | WOOFI Stake                    | August 2024  |  EVM        |   [📝](./WOOFI%20Stake%20-%20Zellic%20Audit%20Report.pdf)             |
 | Celestia PFM                   | August 2024  |  Cosmos     |   [📝](./Celestia%20Packet%20Forward%20Middleware%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chainflip Solana               | August 2024  |  Solana     |   [📝](./Chainflip%20Solana%20-%20Zellic%20Audit%20Report.pdf)             |
+| Omni Network                   | July 2024  |  Cosmos    |   [📝](./Omni%20Network%20-%20Zellic%20Audit%20Report.pdf)             |
 | Echelon                        | July 2024  |  Move       |   [📝](./Echelon%20-%20Zellic%20Audit%20Report.pdf)             |
 | Pragma                         | July 2024  |  Cairo     |   [📝](./Hyperlane%20Starknet%20-%20Zellic%20Audit%20Report.pdf)             |
 | SatLayer                       | July 2024  |  EVM       |   [📝](./SatLayer%20Pool%20-%20Zellic%20Audit%20Report.pdf)             |
