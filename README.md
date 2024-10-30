@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Grug                           | October 2024  |  Cosmos    |   [📝](./Grug%20-%20Zellic%20Audit%20Report.pdf)             |
 | Dusk Network                   | October 2024  |  EVM       |   [📝](./Migration%20-%20Zellic%20Audit%20Report.pdf)             |
 | MetaLeX Metavest               | September 2024  |  EVM       |   [📝](./Metavest%20-%20Zellic%20Audit%20Report.pdf)             |
 | Ooga Booga                     | September 2024  |  EVM       |   [📝](./Ooga%20Booga%20-%20Zellic%20Audit%20Report.pdf)             |
