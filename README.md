@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Session Token - October        | October 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report%2010.23.24.pdf)             |
 | Grug                           | October 2024  |  Cosmos    |   [📝](./Grug%20-%20Zellic%20Audit%20Report.pdf)             |
 | Dusk Network                   | October 2024  |  EVM       |   [📝](./Migration%20-%20Zellic%20Audit%20Report.pdf)             |
 | MetaLeX Metavest               | September 2024  |  EVM       |   [📝](./Metavest%20-%20Zellic%20Audit%20Report.pdf)             |
