@@ -11,6 +11,7 @@
 | Session Token - October        | October 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report%2010.23.24.pdf)             |
 | Grug                           | October 2024  |  Cosmos    |   [📝](./Grug%20-%20Zellic%20Audit%20Report.pdf)             |
 | Dusk Network                   | October 2024  |  EVM       |   [📝](./Migration%20-%20Zellic%20Audit%20Report.pdf)             |
+| PondFun                        | September 2024  |  EVM       |   [📝](./Memecoin%20Launcher%20-%20Zellic%20Audit%20Report.pdf)             |
 | MetaLeX Metavest               | September 2024  |  EVM       |   [📝](./Metavest%20-%20Zellic%20Audit%20Report.pdf)             |
 | Ooga Booga                     | September 2024  |  EVM       |   [📝](./Ooga%20Booga%20-%20Zellic%20Audit%20Report.pdf)             |
 | Level                          | September 2024  |  EVM       |   [📝](./Level%20Points%20Farm%20-%20Zellic%20Audit%20Report.pdf)             |
