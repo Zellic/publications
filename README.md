@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Warlock Labs                   | October 2024  |  EVM       |   [📝](./SolBLS%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | October 2024  |  EVM       |   [📝](./Yeet%20October%20-%20Zellic%20Audit%20Report.pdf)             |
 | DojoSwap                       | October 2024  |  Rust      |   [📝](./DojoSwap%20-%20Zellic%20Audit%20Report.pdf)             |
 | InfiniCard Vault               | October 2024  |  EVM       |   [📝](./InfiniCard%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
