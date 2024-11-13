@@ -6,6 +6,9 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Facet Node                     | November 2024  |  Ruby      |   [📝](./Facet%20Node%20-%20Zellic%20Audit%20Report.pdf)             |
+| Facet Bridge                   | November 2024  |  EVM       |   [📝](./Facet%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
+| Facet Migrations               | October 2024  |  EVM       |   [📝](./Facet%20Migrations%20-%20Zellic%20Audit%20Report.pdf)             |
 | Warlock Labs                   | October 2024  |  EVM       |   [📝](./SolBLS%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | October 2024  |  EVM       |   [📝](./Yeet%20October%20-%20Zellic%20Audit%20Report.pdf)             |
 | DojoSwap                       | October 2024  |  Rust      |   [📝](./DojoSwap%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -13,6 +16,7 @@
 | Session Token - October        | October 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report%2010.23.24.pdf)             |
 | Grug                           | October 2024  |  Cosmos    |   [📝](./Grug%20-%20Zellic%20Audit%20Report.pdf)             |
 | Dusk Network                   | October 2024  |  EVM       |   [📝](./Migration%20-%20Zellic%20Audit%20Report.pdf)             |
+| Facet Geth                     | September 2024  |  EVM       |   [📝](./Facet%20Geth%20-%20Zellic%20Audit%20Report.pdf)             |
 | PondFun                        | September 2024  |  EVM       |   [📝](./Memecoin%20Launcher%20-%20Zellic%20Audit%20Report.pdf)             |
 | MetaLeX Metavest               | September 2024  |  EVM       |   [📝](./Metavest%20-%20Zellic%20Audit%20Report.pdf)             |
 | Ooga Booga                     | September 2024  |  EVM       |   [📝](./Ooga%20Booga%20-%20Zellic%20Audit%20Report.pdf)             |
