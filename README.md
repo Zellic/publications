@@ -9,6 +9,7 @@
 | Facet Node                     | November 2024  |  Ruby      |   [📝](./Facet%20Node%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Bridge                   | November 2024  |  EVM       |   [📝](./Facet%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Migrations               | October 2024  |  EVM       |   [📝](./Facet%20Migrations%20-%20Zellic%20Audit%20Report.pdf)             |
+| Astria Shared Sequencer        | October 2024  |  Cosmos    |   [📝](./Astria%20Shared%20Sequencer%20-%20Zellic%20Audit%20Report.pdf)             |
 | Warlock Labs                   | October 2024  |  EVM       |   [📝](./SolBLS%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | October 2024  |  EVM       |   [📝](./Yeet%20October%20-%20Zellic%20Audit%20Report.pdf)             |
 | DojoSwap                       | October 2024  |  Rust      |   [📝](./DojoSwap%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -24,6 +25,7 @@
 | Acctual                        | September 2024  |  EVM       |   [📝](./Acctual%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | September 2024  |  EVM       |   [📝](./Yeet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Saffron                        | September 2024  |  EVM       |   [📝](./Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf)             |
+| Astria Bridge                  | August 2024  |  Cosmos    |   [📝](./Astria%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | WOOFI Stake                    | August 2024  |  EVM        |   [📝](./WOOFI%20Stake%20-%20Zellic%20Audit%20Report.pdf)             |
 | Celestia PFM                   | August 2024  |  Cosmos     |   [📝](./Celestia%20Packet%20Forward%20Middleware%20-%20Zellic%20Audit%20Report.pdf)             |
 | Chainflip Solana               | August 2024  |  Solana     |   [📝](./Chainflip%20Solana%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -34,6 +36,7 @@
 | Paragon DAO                    | July 2024  |  EVM       |   [📝](./PDT%20Staking%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mitosis                        | July 2024  |  EVM       |   [📝](./Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | Session Token                  | July 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
+| Astria Geth                    | June 2024  |  EVM       |   [📝](./Astria%20Geth%20-%20Zellic%20Audit%20Report.pdf)             |
 | eBridge AElf Bridge            | June 2024  |  AElf      |   [📝](./eBridge%20AElf%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | eBridge Ethereum Bridge        | June 2024  |  EVM       |   [📝](./eBridge%20Ethereum%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | StakeKit                       | June 2024  |  EVM       |   [📝](./StakeKit%20FeeWrapper%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -48,6 +51,7 @@
 | Anzen Finance                  | May 2024   |  EVM       |   [📝](./Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Trillion                       | May 2024   |  EVM       |   [📝](./Trillion%20-%20Zellic%20Audit%20Report.pdf)             |
 | Adrastia PID Controller        | May 2024   |  EVM       |   [📝](./Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf)             |
+| Astria Shared Sequencer        | April 2024 |  Cosmos    |   [📝](./Astria%20Shared%20Sequencer%20April%20-%20Zellic%20Audit%20Report.pdf)             |
 | Lorenzo Protocol               | April 2024 |  EVM       |   [📝](./Lorenzo%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Bracket Fi                     | April 2024 |  EVM       |   [📝](./Bracket%20Fi%20Escrow%20-%20Zellic%20Audit%20Report.pdf)             |
 | Hydrogen Labs                  | April 2024 |  EVM       |   [📝](./Hydrogen%20Labs%20Rover%20-%20Zellic%20Audit%20Report.pdf)             |
