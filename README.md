@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| SpringSui                      | November 2024  |  Sui       |   [📝](./SpringSui%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Node                     | November 2024  |  Ruby      |   [📝](./Facet%20Node%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Bridge                   | November 2024  |  EVM       |   [📝](./Facet%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Migrations               | October 2024  |  EVM       |   [📝](./Facet%20Migrations%20-%20Zellic%20Audit%20Report.pdf)             |
