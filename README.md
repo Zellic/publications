@@ -10,6 +10,7 @@
 | SpringSui                      | November 2024  |  Sui       |   [📝](./SpringSui%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Node                     | November 2024  |  Ruby      |   [📝](./Facet%20Node%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Bridge                   | November 2024  |  EVM       |   [📝](./Facet%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
+| Deep Blue Extended ERC20       | October 2024  |  EVM       |   [📝](./Extended%20ERC20%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Migrations               | October 2024  |  EVM       |   [📝](./Facet%20Migrations%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astria Shared Sequencer        | October 2024  |  Cosmos    |   [📝](./Astria%20Shared%20Sequencer%20-%20Zellic%20Audit%20Report.pdf)             |
 | Warlock Labs                   | October 2024  |  EVM       |   [📝](./SolBLS%20-%20Zellic%20Audit%20Report.pdf)             |
