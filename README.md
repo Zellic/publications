@@ -41,6 +41,7 @@
 | Paragon DAO                    | July 2024  |  EVM       |   [📝](./PDT%20Staking%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mitosis                        | July 2024  |  EVM       |   [📝](./Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | Session Token                  | July 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
+| Babylon                        | June 2024  |  Cosmos    |   [📝](./Babylon%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero OApp & OFT           | June 2024  |  EVM       |   [📝](./LayerZero%20OApp%20&%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astria Geth                    | June 2024  |  EVM       |   [📝](./Astria%20Geth%20-%20Zellic%20Audit%20Report.pdf)             |
 | eBridge AElf Bridge            | June 2024  |  AElf      |   [📝](./eBridge%20AElf%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
