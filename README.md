@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Fairyring                      | November 2024  |  Cosmos      |   [📝](./Fairyring%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nimbora                        | November 2024  |  Cairo       |   [📝](./Nimbora%20-%20Zellic%20Audit%20Report.pdf)             |
 | SpringSui                      | November 2024  |  Sui       |   [📝](./SpringSui%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Node                     | November 2024  |  Ruby      |   [📝](./Facet%20Node%20-%20Zellic%20Audit%20Report.pdf)             |
