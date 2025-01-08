@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Anzen and protocol-v2          | December 2024  |  EVM      |   [📝](./Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cultured                       | November 2024  |  EVM      |   [📝](./Cultured%20-%20Zellic%20Audit%20Report.pdf)             |
 | Fairyring                      | November 2024  |  Cosmos      |   [📝](./Fairyring%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nimbora                        | November 2024  |  Cairo       |   [📝](./Nimbora%20-%20Zellic%20Audit%20Report.pdf)             |
