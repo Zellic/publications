@@ -32,6 +32,7 @@
 | Acctual                        | September 2024  |  EVM       |   [📝](./Acctual%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | September 2024  |  EVM       |   [📝](./Yeet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Saffron                        | September 2024  |  EVM       |   [📝](./Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf)             |
+| Nebra UPA Circuits Change      | August 2024  |  Rust      |   [📝](./Nebra%20UPA%20Circuits%20CircuitId%20Hash%20Function%20Change%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astria Bridge                  | August 2024  |  Cosmos    |   [📝](./Astria%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | WOOFI Stake                    | August 2024  |  EVM        |   [📝](./WOOFI%20Stake%20-%20Zellic%20Audit%20Report.pdf)             |
 | Celestia PFM                   | August 2024  |  Cosmos     |   [📝](./Celestia%20Packet%20Forward%20Middleware%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -46,6 +47,7 @@
 | Paragon DAO                    | July 2024  |  EVM       |   [📝](./PDT%20Staking%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mitosis                        | July 2024  |  EVM       |   [📝](./Mitosis%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | Session Token                  | July 2024  |  EVM       |   [📝](./Session%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
+| Nebra Gnark Support            | June 2024  |  Rust       |   [📝](./Nebra%20Gnark%20Support%20in%20UPA%20circuits%20-%20Zellic%20Audit%20Report.pdf)             |
 | Babylon                        | June 2024  |  Cosmos    |   [📝](./Babylon%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero OApp & OFT           | June 2024  |  EVM       |   [📝](./LayerZero%20OApp%20&%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astria Geth                    | June 2024  |  EVM       |   [📝](./Astria%20Geth%20-%20Zellic%20Audit%20Report.pdf)             |
