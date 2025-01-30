@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Succinct SP1                   | December 2024  |  Rust      |   [📝](./Succinct%20SP1%20-%20Zellic%20Design%20Review.pdf)             |
 | Anzen and protocol-v2          | December 2024  |  EVM      |   [📝](./Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cosmos SDK Liquid Stake Module | November 2024  |  Cosmos      |   [📝](./Cosmos%20SDK%20Liquid%20Stake%20Module%20-%20Zellic%20Audit%20Report.pdf)             |
 | Trillion Cross Chain           | November 2024  |  EVM      |   [📝](./Trillion%20EVM%20cross%20chain%20contract%20-%20Zellic%20Audit%20Report.pdf)             |
