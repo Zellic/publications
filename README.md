@@ -7,6 +7,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Magma Finance                  | January 2025  |  Move      |   [📝](./Magma%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
+| Takara Lend Contracts          | January 2025  |  EVM      |   [📝](./Takara%20Lend%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Prosper                        | January 2025  |  EVM      |   [📝](./Prosper%20Omnichain%20Fungible%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
 | Succinct SP1                   | December 2024  |  Rust      |   [📝](./Succinct%20SP1%20-%20Zellic%20Design%20Review.pdf)             |
 | Anzen and protocol-v2          | December 2024  |  EVM      |   [📝](./Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf)             |
