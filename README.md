@@ -13,6 +13,7 @@
 | Prosper                        | January 2025  |  EVM      |   [📝](./Prosper%20Omnichain%20Fungible%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
 | Succinct SP1                   | December 2024  |  Rust      |   [📝](./Succinct%20SP1%20-%20Zellic%20Design%20Review.pdf)             |
 | Anzen and protocol-v2          | December 2024  |  EVM      |   [📝](./Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf)             |
+| RabbitX                        | November 2024  |  EVM      |   [📝](./RabbitX%20December%202024%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cosmos SDK Liquid Stake Module | November 2024  |  Cosmos      |   [📝](./Cosmos%20SDK%20Liquid%20Stake%20Module%20-%20Zellic%20Audit%20Report.pdf)             |
 | Trillion Cross Chain           | November 2024  |  EVM      |   [📝](./Trillion%20EVM%20cross%20chain%20contract%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cultured                       | November 2024  |  EVM      |   [📝](./Cultured%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -68,6 +69,7 @@
 | Alkimiya                       | June 2024  |  EVM       |   [📝](./Alkimiya%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll zkEVM                   | June 2024  |  EVM       |   [📝](./Scroll%20zkEVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yei Finance                    | June 2024  |  EVM       |   [📝](./Yei%20Finance%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
+| RabbitX                        | May 2024   |  EVM      |   [📝](./RabbitX%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nebra                          | May 2024   |  Rust      |   [📝](./Nebra%20Universal%20Proof%20Aggregator%20-%20Zellic%20Audit%20Report.pdf)             |
 | Awaken Snap                    | May 2024   |  AElf      |   [📝](./Awaken%20Swap%20-%20Zellic%20Audit%20Report.pdf)             |
 | Anzen Finance                  | May 2024   |  EVM       |   [📝](./Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
