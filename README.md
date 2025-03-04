@@ -8,6 +8,7 @@
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Mina Token Bridge              | February 2025  |  Web      |   [📝](./Mina%20Token%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sailor Finance                 | February 2025  |  EVM      |   [📝](./Core%20and%20Periphery%20-%20Zellic%20Audit%20Report.pdf)             |
+| Xion Passkeys                  | January 2025  |  Rust      |   [📝](./Xion%20Passkeys%20-%20Zellic%20Audit%20Report.pdf)             |
 | Magma Finance                  | January 2025  |  Move      |   [📝](./Magma%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Takara Lend Contracts          | January 2025  |  EVM      |   [📝](./Takara%20Lend%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Prosper                        | January 2025  |  EVM      |   [📝](./Prosper%20Omnichain%20Fungible%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
