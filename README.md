@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| DAO DAO                        | February 2025  |  Rust     |   [📝](./DAO%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mina Token Bridge              | February 2025  |  Web      |   [📝](./Mina%20Token%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sailor Finance                 | February 2025  |  EVM      |   [📝](./Core%20and%20Periphery%20-%20Zellic%20Audit%20Report.pdf)             |
 | Xion Passkeys                  | January 2025  |  Rust      |   [📝](./Xion%20Passkeys%20-%20Zellic%20Audit%20Report.pdf)             |
