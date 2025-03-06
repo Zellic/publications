@@ -26,6 +26,7 @@
 | SpringSui                      | November 2024  |  Sui       |   [📝](./SpringSui%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Node                     | November 2024  |  Ruby      |   [📝](./Facet%20Node%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Bridge                   | November 2024  |  EVM       |   [📝](./Facet%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
+| Gasp                           | October 2024  |  EVM       |   [📝](./Gasp%20Node%20and%20Monorepo%20-%20Zellic%20Audit%20Report.pdf)             |
 | Fuelet                         | October 2024  |  Dart      |   [📝](./Fuelet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Deep Blue Extended ERC20       | October 2024  |  EVM       |   [📝](./Extended%20ERC20%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Migrations               | October 2024  |  EVM       |   [📝](./Facet%20Migrations%20-%20Zellic%20Audit%20Report.pdf)             |
