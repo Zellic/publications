@@ -7,6 +7,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | AtomOne                        | March 2025     |  Cosmos   |   [📝](./AtomOne%20-%20Zellic%20Audit%20Report.pdf)             |
+| Circuit DAO                    | February 2025  |  Chia     |   [📝](./Circuit%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cultured                       | February 2025  |  EVM      |   [📝](./Cultured%20February%20-%20Zellic%20Audit%20Report.pdf)             |
 | Plaza                          | February 2025  |  EVM      |   [📝](./Plaza%20-%20Zellic%20Audit%20Report.pdf)             |
 | DAO DAO                        | February 2025  |  Rust     |   [📝](./DAO%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
