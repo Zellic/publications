@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Filecoin                       | March 2025     |  EVM      |   [📝](./Proof%20of%20Data%20Possession%20-%20Zellic%20Audit%20Report.pdf)             |
 | AtomOne                        | March 2025     |  Cosmos   |   [📝](./AtomOne%20-%20Zellic%20Audit%20Report.pdf)             |
 | Circuit DAO                    | February 2025  |  Chia     |   [📝](./Circuit%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cultured                       | February 2025  |  EVM      |   [📝](./Cultured%20February%20-%20Zellic%20Audit%20Report.pdf)             |
