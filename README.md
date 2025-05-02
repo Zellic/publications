@@ -7,6 +7,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| StakeKit                       | March 2025     |  EVM      |   [📝](./StakeKit%20-%20Zellic%20Audit%20Report.pdf)             |
 | Filecoin                       | March 2025     |  EVM      |   [📝](./Proof%20of%20Data%20Possession%20-%20Zellic%20Audit%20Report.pdf)             |
 | AtomOne                        | March 2025     |  Cosmos   |   [📝](./AtomOne%20-%20Zellic%20Audit%20Report.pdf)             |
 | Circuit DAO                    | February 2025  |  Chia     |   [📝](./Circuit%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
