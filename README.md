@@ -7,23 +7,36 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| Babylon Genesis Chain          | March 2025     |  Cosmos   |   [📝](./Babylon%20Genesis%20Chain%20-%20Zellic%20Audit%20Report.pdf)             |
+| Falcon Finance                 | March 2025     |  EVM      |   [📝](./Falcon%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
+| Orderly Strategy Vault         | March 2025     |  EVM      |   [📝](./Orderly%20Strategy%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | StakeKit                       | March 2025     |  EVM      |   [📝](./StakeKit%20-%20Zellic%20Audit%20Report.pdf)             |
 | Filecoin                       | March 2025     |  EVM      |   [📝](./Proof%20of%20Data%20Possession%20-%20Zellic%20Audit%20Report.pdf)             |
 | AtomOne                        | March 2025     |  Cosmos   |   [📝](./AtomOne%20-%20Zellic%20Audit%20Report.pdf)             |
+| Swisstronik                    | February 2025  |  Cosmos   |   [📝](./Swisstronik%20-%20Zellic%20Audit%20Report.pdf)             |
+| Pyth Lazer EVM                 | February 2025  |  EVM      |   [📝](./Pyth%20Lazer%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
+| Wormhole MultiGov              | February 2025  |  Rust     |   [📝](./Wormhole%20MultiGov%20-%20Zellic%20Audit%20Report.pdf)             |
 | Circuit DAO                    | February 2025  |  Chia     |   [📝](./Circuit%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cultured                       | February 2025  |  EVM      |   [📝](./Cultured%20February%20-%20Zellic%20Audit%20Report.pdf)             |
 | Plaza                          | February 2025  |  EVM      |   [📝](./Plaza%20-%20Zellic%20Audit%20Report.pdf)             |
 | DAO DAO                        | February 2025  |  Rust     |   [📝](./DAO%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mina Token Bridge              | February 2025  |  Web      |   [📝](./Mina%20Token%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sailor Finance                 | February 2025  |  EVM      |   [📝](./Core%20and%20Periphery%20-%20Zellic%20Audit%20Report.pdf)             |
+| Pyth Lazer Solana              | January 2025  |  Rust      |   [📝](./Pyth%20Lazer%20Solana%20-%20Zellic%20Audit%20Report.pdf)             |
+| SatLayer Pool Patch            | January 2025  |  EVM       |   [📝](./SatLayer%20Pool%20(Patch)%20-%20Zellic%20Audit%20Report.pdf)             |
+| LayerZero USDT OFT             | January 2025  |  TON       |   [📝](./LayerZero%20USDT%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
+| LayerZero USDT TON             | January 2025  |  TON       |   [📝](./LayerZero%20USDT%20TON%20-%20Zellic%20Audit%20Report.pdf)             |
+| THORChain Bifrost UTXO         | January 2025  |  Go        |   [📝](./THORChain%20Bifrost%20UTXO%20Client%20-%20Zellic%20Audit%20Report.pdf)             |
 | Xion Passkeys                  | January 2025  |  Rust      |   [📝](./Xion%20Passkeys%20-%20Zellic%20Audit%20Report.pdf)             |
 | Magma Finance                  | January 2025  |  Move      |   [📝](./Magma%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Takara Lend Contracts          | January 2025  |  EVM      |   [📝](./Takara%20Lend%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Prosper                        | January 2025  |  EVM      |   [📝](./Prosper%20Omnichain%20Fungible%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
+| Berachain Airdrop              | December 2024  |  EVM      |   [📝](./Berachain%20Airdrop%20-%20Zellic%20Audit%20Report.pdf)             |
 | Radix                          | December 2024  |  Rust     |   [📝](./Radix%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mina Token Bridge              | December 2024  |  EVM      |   [📝](./Mina%20Token%20Bridge%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Succinct SP1                   | December 2024  |  Rust      |   [📝](./Succinct%20SP1%20-%20Zellic%20Design%20Review.pdf)             |
 | Anzen and protocol-v2          | December 2024  |  EVM      |   [📝](./Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf)             |
+| Plaza Core Protocol            | November 2024  |  EVM      |   [📝](./Plaza%20Core%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Rujira                         | November 2024  |  Rust     |   [📝](./Rujira%20-%20Zellic%20Audit%20Report.pdf)             |
 | Brevis                         | November 2024  |  Go       |   [📝](./Brevis%20-%20Zellic%20Audit%20Report.pdf)             |
 | RabbitX                        | November 2024  |  EVM      |   [📝](./RabbitX%20December%202024%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -35,6 +48,7 @@
 | SpringSui                      | November 2024  |  Sui       |   [📝](./SpringSui%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Node                     | November 2024  |  Ruby      |   [📝](./Facet%20Node%20-%20Zellic%20Audit%20Report.pdf)             |
 | Facet Bridge                   | November 2024  |  EVM       |   [📝](./Facet%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
+| Anza Solana                    | October 2024  |  Solana    |   [📝](./Anza%20Solana%20BPF%20-%20Zellic%20Audit%20Report.pdf)             |
 | Gasp                           | October 2024  |  EVM       |   [📝](./Gasp%20Node%20and%20Monorepo%20-%20Zellic%20Audit%20Report.pdf)             |
 | Fuelet                         | October 2024  |  Dart      |   [📝](./Fuelet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Deep Blue Extended ERC20       | October 2024  |  EVM       |   [📝](./Extended%20ERC20%20-%20Zellic%20Audit%20Report.pdf)             |
