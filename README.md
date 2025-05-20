@@ -7,6 +7,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| Scallop                        | March 2025     |  Sui      |   [📝](./Scallop%20-%20Zellic%20Audit%20Report.pdf)             |
 | Babylon Genesis Chain          | March 2025     |  Cosmos   |   [📝](./Babylon%20Genesis%20Chain%20-%20Zellic%20Audit%20Report.pdf)             |
 | Falcon Finance                 | March 2025     |  EVM      |   [📝](./Falcon%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Orderly Strategy Vault         | March 2025     |  EVM      |   [📝](./Orderly%20Strategy%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -69,6 +70,7 @@
 | Acctual                        | September 2024  |  EVM       |   [📝](./Acctual%20Batch%20Payments%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | September 2024  |  EVM       |   [📝](./Yeet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Saffron                        | September 2024  |  EVM       |   [📝](./Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf)             |
+| AUSD                           | August 2024  |  Sui       |   [📝](./AUSD%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nebra UPA Circuits Change      | August 2024  |  Rust      |   [📝](./Nebra%20UPA%20Circuits%20CircuitId%20Hash%20Function%20Change%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astria Bridge                  | August 2024  |  Cosmos    |   [📝](./Astria%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | WOOFI Stake                    | August 2024  |  EVM        |   [📝](./WOOFI%20Stake%20-%20Zellic%20Audit%20Report.pdf)             |
