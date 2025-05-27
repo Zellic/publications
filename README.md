@@ -39,6 +39,7 @@
 | Anzen and protocol-v2          | December 2024  |  EVM      |   [📝](./Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Plaza Core Protocol            | November 2024  |  EVM      |   [📝](./Plaza%20Core%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Rujira                         | November 2024  |  Rust     |   [📝](./Rujira%20-%20Zellic%20Audit%20Report.pdf)             |
+| TruFin Injective Staker        | November 2024  |  Rust     |   [📝](./TruFin%20Injective%20Staker%20-%20Zellic%20Audit%20Report.pdf)             |
 | Brevis                         | November 2024  |  Go       |   [📝](./Brevis%20-%20Zellic%20Audit%20Report.pdf)             |
 | RabbitX                        | November 2024  |  EVM      |   [📝](./RabbitX%20December%202024%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cosmos SDK Liquid Stake Module | November 2024  |  Cosmos      |   [📝](./Cosmos%20SDK%20Liquid%20Stake%20Module%20-%20Zellic%20Audit%20Report.pdf)             |
