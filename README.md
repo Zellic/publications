@@ -7,6 +7,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| IBC Eureka                     | March 2025     |  EVM      |   [📝](./IBC%20Eureka%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Partner Vault         | March 2025     |  EVM      |   [📝](./Maia%20DAO%20Partner%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | Babylon Genesis Chain          | March 2025     |  Cosmos   |   [📝](./Babylon%20Genesis%20Chain%20-%20Zellic%20Audit%20Report.pdf)             |
 | Falcon Finance                 | March 2025     |  EVM      |   [📝](./Falcon%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
