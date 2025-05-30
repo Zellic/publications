@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| N1 Bridge                      | April 2025     |  Rust     |   [📝](./N1%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | IBC Eureka                     | March 2025     |  EVM      |   [📝](./IBC%20Eureka%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Partner Vault         | March 2025     |  EVM      |   [📝](./Maia%20DAO%20Partner%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
