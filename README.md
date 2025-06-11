@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| DexFi Factory                  | May 2025       |  EVM      |   [📝](./DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf)             |
 | N1 Bridge                      | April 2025     |  Rust     |   [📝](./N1%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | IBC Eureka                     | March 2025     |  EVM      |   [📝](./IBC%20Eureka%20-%20Zellic%20Audit%20Report.pdf)             |
