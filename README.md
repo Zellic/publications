@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Garden Move Deploy             | June 2025      |  Move     |   [📝](./Garden%20Move%20Deploy%20-%20Zellic%20Audit%20Report.pdf)             |
 | DexFi Factory                  | May 2025       |  EVM      |   [📝](./DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf)             |
 | N1 Bridge                      | April 2025     |  Rust     |   [📝](./N1%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
