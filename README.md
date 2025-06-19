@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| OpenZeppelin Cairo Contracts   | June 2025      |  Cairo    |   [📝](./OpenZeppelin%20Cairo%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Garden Move Deploy             | June 2025      |  Move     |   [📝](./Garden%20Move%20Deploy%20-%20Zellic%20Audit%20Report.pdf)             |
 | DexFi Factory                  | May 2025       |  EVM      |   [📝](./DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf)             |
 | N1 Bridge                      | April 2025     |  Rust     |   [📝](./N1%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
