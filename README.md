@@ -37,6 +37,7 @@
 | Magma Finance                  | January 2025  |  Move      |   [📝](./Magma%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Takara Lend Contracts          | January 2025  |  EVM      |   [📝](./Takara%20Lend%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Prosper                        | January 2025  |  EVM      |   [📝](./Prosper%20Omnichain%20Fungible%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
+| Cove                           | December 2024  |  EVM      |   [📝](./Cove%20-%20Zellic%20Audit%20Report.pdf)             |
 | Berachain Airdrop              | December 2024  |  EVM      |   [📝](./Berachain%20Airdrop%20-%20Zellic%20Audit%20Report.pdf)             |
 | Radix                          | December 2024  |  Rust     |   [📝](./Radix%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mina Token Bridge              | December 2024  |  EVM      |   [📝](./Mina%20Token%20Bridge%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
