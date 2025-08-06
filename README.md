@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Stake.link                     | July 2025      |  EVM      |   [📝](./Polygon%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | All in Bits                    | July 2025      |  Cosmos   |   [📝](./All%20in%20Bits%20-%20Zellic%20Audit%20Report.pdf)             |
 | Aori                           | June 2025      |  EVM      |   [📝](./Aori%200.3.1%20Upgrade%20-%20Zellic%20Audit%20Report.pdf)             |
 | OpenZeppelin Cairo Contracts   | June 2025      |  Cairo    |   [📝](./OpenZeppelin%20Cairo%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
