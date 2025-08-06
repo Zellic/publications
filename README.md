@@ -115,6 +115,7 @@
 | Anzen Finance                  | May 2024   |  EVM       |   [📝](./Anzen%20Finance%20-%20Zellic%20Audit%20Report.pdf)             |
 | Trillion                       | May 2024   |  EVM       |   [📝](./Trillion%20-%20Zellic%20Audit%20Report.pdf)             |
 | Adrastia PID Controller        | May 2024   |  EVM       |   [📝](./Adrastia%20PID%20Controller%20-%20Zellic%20Audit%20Report.pdf)             |
+| Reclaim Protocol               | April 2024 |  Web       |   [📝](./Reclaim%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astria Shared Sequencer        | April 2024 |  Cosmos    |   [📝](./Astria%20Shared%20Sequencer%20April%20-%20Zellic%20Audit%20Report.pdf)             |
 | Lorenzo Protocol               | April 2024 |  EVM       |   [📝](./Lorenzo%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Bracket Fi                     | April 2024 |  EVM       |   [📝](./Bracket%20Fi%20Escrow%20-%20Zellic%20Audit%20Report.pdf)             |
