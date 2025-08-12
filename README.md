@@ -23,6 +23,7 @@
 | StakeKit                       | March 2025     |  EVM      |   [📝](./StakeKit%20-%20Zellic%20Audit%20Report.pdf)             |
 | Filecoin                       | March 2025     |  EVM      |   [📝](./Proof%20of%20Data%20Possession%20-%20Zellic%20Audit%20Report.pdf)             |
 | AtomOne                        | March 2025     |  Cosmos   |   [📝](./AtomOne%20-%20Zellic%20Audit%20Report.pdf)             |
+| SoSoValue                      | February 2025  |  EVM      |   [📝](./SoSoValue%20-%20Zellic%20Audit%20Report.pdf)             |
 | Swisstronik                    | February 2025  |  Cosmos   |   [📝](./Swisstronik%20-%20Zellic%20Audit%20Report.pdf)             |
 | Pyth Lazer EVM                 | February 2025  |  EVM      |   [📝](./Pyth%20Lazer%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Wormhole MultiGov              | February 2025  |  Rust     |   [📝](./Wormhole%20MultiGov%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -32,6 +33,9 @@
 | DAO DAO                        | February 2025  |  Rust     |   [📝](./DAO%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mina Token Bridge              | February 2025  |  Web      |   [📝](./Mina%20Token%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sailor Finance                 | February 2025  |  EVM      |   [📝](./Core%20and%20Periphery%20-%20Zellic%20Audit%20Report.pdf)             |
+| Astria Shared Sequencer Oracle | January 2025  |  Rust      |   [📝](./Astria%20Shared%20Sequencer%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
+| Echelon                        | January 2025  |  Move      |   [📝](./Echelon%20-%20Zellic%20Audit%20Report%20(January).pdf)             |
+| Pye                            | January 2025  |  Solana    |   [📝](./Pye%20-%20Zellic%20Audit%20Report.pdf)             |
 | Pyth Lazer Solana              | January 2025  |  Rust      |   [📝](./Pyth%20Lazer%20Solana%20-%20Zellic%20Audit%20Report.pdf)             |
 | SatLayer Pool Patch            | January 2025  |  EVM       |   [📝](./SatLayer%20Pool%20(Patch)%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero USDT OFT             | January 2025  |  TON       |   [📝](./LayerZero%20USDT%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
