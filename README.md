@@ -8,6 +8,7 @@
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Stake.link                     | July 2025      |  EVM      |   [📝](./Polygon%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | All in Bits                    | July 2025      |  Cosmos   |   [📝](./All%20in%20Bits%20-%20Zellic%20Audit%20Report.pdf)             |
+| Odos Cross-Chain               | June 2025      |  EVM      |   [📝](./Odos%20Cross-Chain%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Aori                           | June 2025      |  EVM      |   [📝](./Aori%200.3.1%20Upgrade%20-%20Zellic%20Audit%20Report.pdf)             |
 | OpenZeppelin Cairo Contracts   | June 2025      |  Cairo    |   [📝](./OpenZeppelin%20Cairo%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Garden Move Deploy             | June 2025      |  Move     |   [📝](./Garden%20Move%20Deploy%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -51,6 +52,7 @@
 | Mina Token Bridge              | December 2024  |  EVM      |   [📝](./Mina%20Token%20Bridge%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Succinct SP1                   | December 2024  |  Rust      |   [📝](./Succinct%20SP1%20-%20Zellic%20Design%20Review.pdf)             |
 | Anzen and protocol-v2          | December 2024  |  EVM      |   [📝](./Anzen%20and%20protocol-v2%20-%20Zellic%20Audit%20Report.pdf)             |
+| Odos Router V3                 | November 2024  |  EVM      |   [📝](./Odos%20Router%20V3%20-%20Zellic%20Audit%20Report.pdf)             |
 | Plaza Core Protocol            | November 2024  |  EVM      |   [📝](./Plaza%20Core%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Rujira                         | November 2024  |  Rust     |   [📝](./Rujira%20-%20Zellic%20Audit%20Report.pdf)             |
 | TruFin Injective Staker        | November 2024  |  Rust     |   [📝](./TruFin%20Injective%20Staker%20-%20Zellic%20Audit%20Report.pdf)             |
