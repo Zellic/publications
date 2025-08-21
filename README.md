@@ -6,16 +6,21 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Frax                           | July 2025      |  EVM      |   [📝](./Frax%20-%20Zellic%20Audit%20Report.pdf)             |
 | Stake.link                     | July 2025      |  EVM      |   [📝](./Polygon%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | All in Bits                    | July 2025      |  Cosmos   |   [📝](./All%20in%20Bits%20-%20Zellic%20Audit%20Report.pdf)             |
+| LayerZero OFTAdapter Burn      | June 2025      |  EVM      |   [📝](./OFTAdapter%20Burn%20-%20Zellic%20Audit%20Report.pdf)             |
 | Odos Cross-Chain               | June 2025      |  EVM      |   [📝](./Odos%20Cross-Chain%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Aori                           | June 2025      |  EVM      |   [📝](./Aori%200.3.1%20Upgrade%20-%20Zellic%20Audit%20Report.pdf)             |
 | OpenZeppelin Cairo Contracts   | June 2025      |  Cairo    |   [📝](./OpenZeppelin%20Cairo%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Garden Move Deploy             | June 2025      |  Move     |   [📝](./Garden%20Move%20Deploy%20-%20Zellic%20Audit%20Report.pdf)             |
+| Mitosis                        | May 2025       |  EVM      |   [📝](./Mitosis%20-%20Zellic%20Audit%20Report.pdf)             |
+| LayerZero TON OFT              | May 2025       |  TON      |   [📝](./LayerZero%20TON%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
 | DexFi                          | May 2025       |  Web      |   [📝](./DexFi%20-%20Zellic%20Audit%20Report.pdf)             |
 | DexFi Factory                  | May 2025       |  EVM      |   [📝](./DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf)             |
 | N1 Bridge                      | April 2025     |  Rust     |   [📝](./N1%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| Anza BPF Stake Program         | March 2025     |  Solana   |   [📝](./Anza%20BPF%20Stake%20Program%20-%20Zellic%20Audit%20Report.pdf)             |
 | IBC Eureka                     | March 2025     |  EVM      |   [📝](./IBC%20Eureka%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Partner Vault         | March 2025     |  EVM      |   [📝](./Maia%20DAO%20Partner%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | Babylon Genesis Chain          | March 2025     |  Cosmos   |   [📝](./Babylon%20Genesis%20Chain%20-%20Zellic%20Audit%20Report.pdf)             |
