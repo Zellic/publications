@@ -27,6 +27,7 @@
 | DexFi Factory                  | May 2025       |  EVM      |   [📝](./DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf)             |
 | N1 Bridge                      | April 2025     |  Rust     |   [📝](./N1%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| Solera                         | March 2025     |  EVM      |   [📝](./Solera%20-%20Zellic%20Audit%20Report%20(March).pdf)             |
 | Anza BPF Stake Program         | March 2025     |  Solana   |   [📝](./Anza%20BPF%20Stake%20Program%20-%20Zellic%20Audit%20Report.pdf)             |
 | IBC Eureka                     | March 2025     |  EVM      |   [📝](./IBC%20Eureka%20-%20Zellic%20Audit%20Report.pdf)             |
 | Maia DAO Partner Vault         | March 2025     |  EVM      |   [📝](./Maia%20DAO%20Partner%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -36,6 +37,7 @@
 | StakeKit                       | March 2025     |  EVM      |   [📝](./StakeKit%20-%20Zellic%20Audit%20Report.pdf)             |
 | Filecoin                       | March 2025     |  EVM      |   [📝](./Proof%20of%20Data%20Possession%20-%20Zellic%20Audit%20Report.pdf)             |
 | AtomOne                        | March 2025     |  Cosmos   |   [📝](./AtomOne%20-%20Zellic%20Audit%20Report.pdf)             |
+| Solera                         | February 2025  |  EVM      |   [📝](./Solera%20-%20Zellic%20Audit%20Report.pdf)             |
 | SoSoValue                      | February 2025  |  EVM      |   [📝](./SoSoValue%20-%20Zellic%20Audit%20Report.pdf)             |
 | Swisstronik                    | February 2025  |  Cosmos   |   [📝](./Swisstronik%20-%20Zellic%20Audit%20Report.pdf)             |
 | Pyth Lazer EVM                 | February 2025  |  EVM      |   [📝](./Pyth%20Lazer%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
