@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| SP1 Helios                     | August 2025    |  EVM      |   [📝](./SP1%20Helios%20-%20Zellic%20Audit%20Report.pdf)             |
 | Filecoin Services              | August 2025    |  EVM      |   [📝](./Filecoin%20Services%20Payments%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mitosis Extensible Vaults      | August 2025    |  EVM      |   [📝](./Mitosis%20Extensible%20Vaults%20-%20Zellic%20Audit%20Reports.pdf)             |
 | Frax                           | July 2025      |  EVM      |   [📝](./Frax%20-%20Zellic%20Audit%20Report.pdf)             |
