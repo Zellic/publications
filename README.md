@@ -11,6 +11,7 @@
 | Frax                           | July 2025      |  EVM      |   [📝](./Frax%20-%20Zellic%20Audit%20Report.pdf)             |
 | Stake.link                     | July 2025      |  EVM      |   [📝](./Polygon%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | All in Bits                    | July 2025      |  Cosmos   |   [📝](./All%20in%20Bits%20-%20Zellic%20Audit%20Report.pdf)             |
+| LayerZero String Passing       | June 2025      |  EVM      |   [📝](./ExampleString%20Passing%20Solana%20OApp%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero OFTAdapter Burn      | June 2025      |  EVM      |   [📝](./OFTAdapter%20Burn%20-%20Zellic%20Audit%20Report.pdf)             |
 | Odos Cross-Chain               | June 2025      |  EVM      |   [📝](./Odos%20Cross-Chain%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Aori                           | June 2025      |  EVM      |   [📝](./Aori%200.3.1%20Upgrade%20-%20Zellic%20Audit%20Report.pdf)             |
