@@ -14,6 +14,7 @@
 | Frax                           | July 2025      |  EVM      |   [📝](./Frax%20-%20Zellic%20Audit%20Report.pdf)             |
 | Stake.link                     | July 2025      |  EVM      |   [📝](./Polygon%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | All in Bits                    | July 2025      |  Cosmos   |   [📝](./All%20in%20Bits%20-%20Zellic%20Audit%20Report.pdf)             |
+| d3 doma                        | June 2025      |  EVM      |   [📝](./d3-doma%20-%20Zellic%20Audit%20Report.pdf)             |
 | Rover Protocol                 | June 2025      |  EVM      |   [📝](./Rover%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Concrete Earn                  | June 2025      |  EVM      |   [📝](./Concrete%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero String Passing       | June 2025      |  EVM      |   [📝](./ExampleString%20Passing%20Solana%20OApp%20-%20Zellic%20Audit%20Report.pdf)             |
