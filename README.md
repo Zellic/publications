@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Hyperlane - Radix              | August 2025    |  Radix    |   [📝](./Hyperlane%20-%20Radix%20-%20Zellic%20Audit%20Report.pdf)             |
 | SP1 Helios                     | August 2025    |  EVM      |   [📝](./SP1%20Helios%20-%20Zellic%20Audit%20Report.pdf)             |
 | Filecoin Services              | August 2025    |  EVM      |   [📝](./Filecoin%20Services%20Payments%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mitosis Extensible Vaults      | August 2025    |  EVM      |   [📝](./Mitosis%20Extensible%20Vaults%20-%20Zellic%20Audit%20Reports.pdf)             |
