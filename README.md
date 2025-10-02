@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Frax0 Mesh                     | September 2025 |  EVM      |   [📝](./Frax0%20Mesh%20-%20Zellic%20Audit%20Report.pdf)             |
 | Falcon Finance                 | September 2025 |  EVM      |   [📝](./Falcon%20Finance%20FF%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero VeDistributor        | September 2025 |  EVM      |   [📝](./LayerZero%20VeDistributor%20-%20Zellic%20Audit%20Report.pdf)             |
 | Avon                           | September 2025 |  EVM      |   [📝](./Avon%20-%20Zellic%20Audit%20Report.pdf)             |
