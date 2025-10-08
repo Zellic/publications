@@ -31,6 +31,7 @@
 | Aori                           | June 2025      |  EVM      |   [📝](./Aori%200.3.1%20Upgrade%20-%20Zellic%20Audit%20Report.pdf)             |
 | OpenZeppelin Cairo Contracts   | June 2025      |  Cairo    |   [📝](./OpenZeppelin%20Cairo%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Garden Move Deploy             | June 2025      |  Move     |   [📝](./Garden%20Move%20Deploy%20-%20Zellic%20Audit%20Report.pdf)             |
+| Benqi Oracle                   | May 2025       |  EVM      |   [📝](./Benqi%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mitosis                        | May 2025       |  EVM      |   [📝](./Mitosis%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero TON OFT              | May 2025       |  TON      |   [📝](./LayerZero%20TON%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
 | DexFi                          | May 2025       |  Web      |   [📝](./DexFi%20-%20Zellic%20Audit%20Report.pdf)             |
