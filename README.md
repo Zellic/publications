@@ -21,6 +21,7 @@
 | Frax                           | July 2025      |  EVM      |   [📝](./Frax%20-%20Zellic%20Audit%20Report.pdf)             |
 | Stake.link                     | July 2025      |  EVM      |   [📝](./Polygon%20Staking%20-%20Zellic%20Audit%20Report.pdf)             |
 | All in Bits                    | July 2025      |  Cosmos   |   [📝](./All%20in%20Bits%20-%20Zellic%20Audit%20Report.pdf)             |
+| Wrapped Staked TAO             | June 2025      |  EVM      |   [📝](./Wrapped%20Staked%20TAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Pinocchio and p-token          | June 2025      |  Rust     |   [📝](./Pinocchio%20and%20p-token%20-%20Zellic%20Audit%20Report.pdf)             |
 | d3 doma                        | June 2025      |  EVM      |   [📝](./d3-doma%20-%20Zellic%20Audit%20Report.pdf)             |
 | Rover Protocol                 | June 2025      |  EVM      |   [📝](./Rover%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
