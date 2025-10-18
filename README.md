@@ -39,6 +39,7 @@
 | LayerZero TON OFT              | May 2025       |  TON      |   [📝](./LayerZero%20TON%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
 | DexFi                          | May 2025       |  Web      |   [📝](./DexFi%20-%20Zellic%20Audit%20Report.pdf)             |
 | DexFi Factory                  | May 2025       |  EVM      |   [📝](./DexFi%20Factory%20-%20Zellic%20Audit%20Report.pdf)             |
+| Tradoor                        | April 2025     |  TVM      |   [📝](./Tradoor%20-%20Zellic%20Audit%20Report.pdf)             |
 | LPTxLPT                        | April 2025     |  Move     |   [📝](./LPTxLPT%20-%20Zellic%20Audit%20Report.pdf)             |
 | N1 Bridge                      | April 2025     |  Rust     |   [📝](./N1%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cetus                          | April 2025     |  Move     |   [📝](./CetusProtocol%20-%20Zellic%20Audit%20Report.pdf)             |
