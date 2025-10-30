@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Carina Smart Contracts         | October 2025   |  EVM      |   [📝](./Carina%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | River Smart Vault              | October 2025   |  EVM      |   [📝](./Smart%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero OAPP & AFT           | September 2025 |  EVM      |   [📝](./LZ%20OApp%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
 | Frax0 Mesh                     | September 2025 |  EVM      |   [📝](./Frax0%20Mesh%20-%20Zellic%20Audit%20Report.pdf)             |
