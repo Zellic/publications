@@ -63,7 +63,7 @@
 | Circuit DAO                    | February 2025  |  Chia     |   [📝](./Circuit%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cultured                       | February 2025  |  EVM      |   [📝](./Cultured%20February%20-%20Zellic%20Audit%20Report.pdf)             |
 | Plaza                          | February 2025  |  EVM      |   [📝](./Plaza%20-%20Zellic%20Audit%20Report.pdf)             |
-| DAO DAO                        | February 2025  |  Rust     |   [📝](./DAO%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
+| DAO                            | February 2025  |  Rust     |   [📝](./DAO%20DAO%20-%20Zellic%20Audit%20Report.pdf)             |
 | Mina Token Bridge              | February 2025  |  Web      |   [📝](./Mina%20Token%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Sailor Finance                 | February 2025  |  EVM      |   [📝](./Core%20and%20Periphery%20-%20Zellic%20Audit%20Report.pdf)             |
 | Astria Shared Sequencer Oracle | January 2025  |  Rust      |   [📝](./Astria%20Shared%20Sequencer%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
