@@ -6,8 +6,22 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Blackhaven                     | January 2026   |  EVM      |   [📝](./Blackhaven%20(Core%20Contracts)%20-%20Zellic%20Audit%20Report.pdf)             |
+| LayerZero Solana Examples      | December 2025  |  Solana   |   [📝](./LayerZero%20Solana%20Examples%20-%20Zellic%20Audit%20Report.pdf)             |
+| Anza Token2022 PR Review       | December 2025  |  Solana   |   [📝](./Anza%20Token2022%20PR%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
+| Multisafe USPC Contracts       | November 2025  |  EVM      |   [📝](./Multisafe%20USPC%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
+| MegaETH Predeposit             | November 2025  |  EVM      |   [📝](./MegaETH%20Predeposit%20-%20Zellic%20Audit%20Report.pdf)             |
+| Magna Airlock                  | November 2025  |  Sui      |   [📝](./Magna%20Airlock%20-%20Zellic%20Audit%20Report.pdf)             |
+| Hyperbeat Pay                  | November 2025  |  EVM      |   [📝](./Hyperbeat%20Pay%20-%20Zellic%20Audit%20Report.pdf)             |
+| Audius Claim and Rewards       | November 2025  |  Solana   |   [📝](./Claim%20and%20Rewards%20Programs%20-%20Zellic%20Audit%20Report.pdf)             |
+| Stable Predeposit              | October 2025   |  EVM      |   [📝](./Stable%20Predeposit%20-%20Zellic%20Audit%20Report.pdf)             |
+| Flare FAssets Review           | October 2025   |  EVM      |   [📝](./Flare%20FAsset%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
+| Cloak V1                       | October 2025   |  EVM      |   [📝](./Cloak%20V1%20-%20Zellic%20Audit%20Report.pdf)             |
+| Anza p-token                   | October 2025   |  Solana   |   [📝](./Anza%20P%20Token%20-%20Zellic%20Audit%20Report.pdf)             |
 | Carina Smart Contracts         | October 2025   |  EVM      |   [📝](./Carina%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | River Smart Vault              | October 2025   |  EVM      |   [📝](./Smart%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
+| Berachain BEND V2              | September 2025 |  EVM      |   [📝](./Berachain%20BEND%20v2%20-%20Zellic%20Audit%20Report.pdf)             |
+| LayerZero V2 Starknet          | September 2025 |  Cairo    |   [📝](./LayerZero%20Starknet%20Endpoint%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero OAPP & AFT           | September 2025 |  EVM      |   [📝](./LZ%20OApp%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
 | Frax0 Mesh                     | September 2025 |  EVM      |   [📝](./Frax0%20Mesh%20-%20Zellic%20Audit%20Report.pdf)             |
 | Falcon Finance                 | September 2025 |  EVM      |   [📝](./Falcon%20Finance%20FF%20-%20Zellic%20Audit%20Report.pdf)             |
