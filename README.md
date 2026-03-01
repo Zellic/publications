@@ -134,7 +134,7 @@
 | MetaLeX Metavest               | September 2024  |  EVM       |   [📝](./Metavest%20-%20Zellic%20Audit%20Report.pdf)             |
 | Ooga Booga                     | September 2024  |  EVM       |   [📝](./Ooga%20Booga%20-%20Zellic%20Audit%20Report.pdf)             |
 | Level                          | September 2024  |  EVM       |   [📝](./Level%20Points%20Farm%20-%20Zellic%20Audit%20Report.pdf)             |
-| Acctual                        | September 2024  |  EVM       |   [📝](./Acctual%20Batch%20Payments%20-%20Zellic%20Audit%20Report.pdf)             |
+| Actual                         | September 2024  |  EVM       |   [📝](./Actual%20Batch%20Payments%20-%20Zellic%20Audit%20Report.pdf)             |
 | Yeet                           | September 2024  |  EVM       |   [📝](./Yeet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Saffron                        | September 2024  |  EVM       |   [📝](./Lido%20Fixed%20Income%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nebra UPA Circuits Change      | August 2024  |  Rust      |   [📝](./Nebra%20UPA%20Circuits%20CircuitId%20Hash%20Function%20Change%20-%20Zellic%20Audit%20Report.pdf)             |
