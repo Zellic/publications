@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Voltra Wallet                  | January 2026   |  Rust     |   [📝](./Voltra%20Wallet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Arkhai                         | January 2026   |  EVM      |   [📝](./Arkhai%20Alkahest%20-%20Zellic%20Audit%20Report.pdf)             |
 | Blackhaven                     | January 2026   |  EVM      |   [📝](./Blackhaven%20(Core%20Contracts)%20-%20Zellic%20Audit%20Report.pdf)             |
 | Hypercube Protocol             | December 2025  |  Rust     |   [📝](./Hypercube%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
