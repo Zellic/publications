@@ -14,6 +14,7 @@
 | Jovay Relayer                  | December 2025  |  Java     |   [📝](./Jovay%20Relayer%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero Solana Examples      | December 2025  |  Solana   |   [📝](./LayerZero%20Solana%20Examples%20-%20Zellic%20Audit%20Report.pdf)             |
 | Anza Token2022 PR Review       | December 2025  |  Solana   |   [📝](./Anza%20Token2022%20PR%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
+| Flare FAsset Diffs             | November 2025  |  EVM      |   [📝](./Flare%20FAsset%20Diffs%20-%20Zellic%20Audit%20Report.pdf)             |
 | Multisafe USPC Contracts       | November 2025  |  EVM      |   [📝](./Multisafe%20USPC%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | MegaETH Predeposit             | November 2025  |  EVM      |   [📝](./MegaETH%20Predeposit%20-%20Zellic%20Audit%20Report.pdf)             |
 | Magna Airlock                  | November 2025  |  Sui      |   [📝](./Magna%20Airlock%20-%20Zellic%20Audit%20Report.pdf)             |
