@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Frax USD Stablecoin            | February 2026  |  EVM      |   [📝](./Frax%20(USD%20Stablecoin)%20-%20Zellic%20Audit%20Report.pdf)             |
 | Voltra Wallet                  | January 2026   |  Rust     |   [📝](./Voltra%20Wallet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Arkhai                         | January 2026   |  EVM      |   [📝](./Arkhai%20Alkahest%20-%20Zellic%20Audit%20Report.pdf)             |
 | Blackhaven                     | January 2026   |  EVM      |   [📝](./Blackhaven%20(Core%20Contracts)%20-%20Zellic%20Audit%20Report.pdf)             |
