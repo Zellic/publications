@@ -6,6 +6,8 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Berachain Honey                | February 2026  |  EVM      |   [📝](./Berachain%20Honey%20(EIP-3009)%20-%20Zellic%20Audit%20Report.pdf)             |
+| Berachain PoL                  | February 2026  |  EVM      |   [📝](./Berachain%20PoL%20(PR%2090)%20-%20Zellic%20Audit%20Report.pdf)             |
 | Frax USD Stablecoin            | February 2026  |  EVM      |   [📝](./Frax%20(USD%20Stablecoin)%20-%20Zellic%20Audit%20Report.pdf)             |
 | Voltra Wallet                  | January 2026   |  Rust     |   [📝](./Voltra%20Wallet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Arkhai                         | January 2026   |  EVM      |   [📝](./Arkhai%20Alkahest%20-%20Zellic%20Audit%20Report.pdf)             |
