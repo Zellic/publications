@@ -36,6 +36,7 @@
 | Falcon Finance                 | September 2025 |  EVM      |   [📝](./Falcon%20Finance%20FF%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero VeDistributor        | September 2025 |  EVM      |   [📝](./LayerZero%20VeDistributor%20-%20Zellic%20Audit%20Report.pdf)             |
 | Avon                           | September 2025 |  EVM      |   [📝](./Avon%20-%20Zellic%20Audit%20Report.pdf)             |
+| BitVM                          | August 2025    |  Rust     |   [📝](./BitVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare FAssets                  | August 2025    |  EVM      |   [📝](./Flare%20FAssets%20-%20Zellic%20Audit%20Report.pdf)             |
 | Hyperlane - Radix              | August 2025    |  Radix    |   [📝](./Hyperlane%20-%20Radix%20-%20Zellic%20Audit%20Report.pdf)             |
 | SP1 Helios                     | August 2025    |  EVM      |   [📝](./SP1%20Helios%20-%20Zellic%20Audit%20Report.pdf)             |
