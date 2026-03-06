@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Nima Labs RFQ Protocol         | March 2026     |  EVM      |   [📝](./RFQ%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Berachain Honey                | February 2026  |  EVM      |   [📝](./Berachain%20Honey%20(EIP-3009)%20-%20Zellic%20Audit%20Report.pdf)             |
 | Berachain PoL                  | February 2026  |  EVM      |   [📝](./Berachain%20PoL%20(PR%2090)%20-%20Zellic%20Audit%20Report.pdf)             |
 | Frax USD Stablecoin            | February 2026  |  EVM      |   [📝](./Frax%20(USD%20Stablecoin)%20-%20Zellic%20Audit%20Report.pdf)             |
