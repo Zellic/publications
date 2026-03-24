@@ -14,6 +14,7 @@
 | Volta Wallet                   | January 2026   |  Rust     |   [📝](./Volta%20Wallet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Arkhai                         | January 2026   |  EVM      |   [📝](./Arkhai%20Alkahest%20-%20Zellic%20Audit%20Report.pdf)             |
 | Blackhaven                     | January 2026   |  EVM      |   [📝](./Blackhaven%20(Core%20Contracts)%20-%20Zellic%20Audit%20Report.pdf)             |
+| Megapot                        | December 2025  |  EVM      |   [📝](./Megapot%20AutoSub_BatchPurchase%20-%20Zellic%20Audit%20Report.pdf)             |
 | Ondo Global Markets            | December 2025  |  Solana   |   [📝](./Ondo%20Global%20Markets%20-%20Zellic%20Audit%20Report.pdf)             |
 | Hypercube Protocol             | December 2025  |  Rust     |   [📝](./Hypercube%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Jovay Relayer                  | December 2025  |  Java     |   [📝](./Jovay%20Relayer%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -25,6 +26,7 @@
 | Magna Airlock                  | November 2025  |  Sui      |   [📝](./Magna%20Airlock%20-%20Zellic%20Audit%20Report.pdf)             |
 | Hyperbeat Pay                  | November 2025  |  EVM      |   [📝](./Hyperbeat%20Pay%20-%20Zellic%20Audit%20Report.pdf)             |
 | Audius Claim and Rewards       | November 2025  |  Solana   |   [📝](./Claim%20and%20Rewards%20Programs%20-%20Zellic%20Audit%20Report.pdf)             |
+| Megapot v2                     | October 2025   |  EVM      |   [📝](./Megapot%20v2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Stable Predeposit              | October 2025   |  EVM      |   [📝](./Stable%20Predeposit%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare FAssets Review           | October 2025   |  EVM      |   [📝](./Flare%20FAsset%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
 | Cloak V1                       | October 2025   |  EVM      |   [📝](./Cloak%20V1%20-%20Zellic%20Audit%20Report.pdf)             |
