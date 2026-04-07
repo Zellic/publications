@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| YPIR                           | March 2026     |  Rust     |   [📝](./YPIR%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll Private Transfer        | March 2026     |  EVM      |   [📝](./Private%20Transfer%20With%20USX%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nima Labs RFQ Protocol         | March 2026     |  EVM      |   [📝](./RFQ%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Berachain Honey                | February 2026  |  EVM      |   [📝](./Berachain%20Honey%20(EIP-3009)%20-%20Zellic%20Audit%20Report.pdf)             |
