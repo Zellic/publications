@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| XAGm                           | March 2026     |  Sui      |   [📝](./XAGm%20-%20Zellic%20Audit%20Report.pdf)             |
 | YPIR                           | March 2026     |  Rust     |   [📝](./YPIR%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll Private Transfer        | March 2026     |  EVM      |   [📝](./Private%20Transfer%20With%20USX%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nima Labs RFQ Protocol         | March 2026     |  EVM      |   [📝](./RFQ%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
