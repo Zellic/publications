@@ -6,9 +6,12 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| FAsset Redeem Composer         | April 2026     |  EVM      |   [📝](./FAsset%20Redeem%20Composer%20-%20Zellic%20Audit%20Report.pdf)             |
+| Smart Account Diff             | April 2026     |  EVM      |   [📝](./Smart%20Account%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
 | Tenbin Labs Core Contracts     | April 2026     |  EVM      |   [📝](./Core%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | ThUSD                          | April 2026     |  EVM      |   [📝](./ThUSD%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare                          | April 2026     |  EVM      |   [📝](./Flare%20Smart%20Accounts%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
+| iUSD Vault                     | March 2026     |  Move     |   [📝](./iUSD%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | XAGm                           | March 2026     |  Sui      |   [📝](./XAGm%20-%20Zellic%20Audit%20Report.pdf)             |
 | YPIR                           | March 2026     |  Rust     |   [📝](./YPIR%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll Private Transfer        | March 2026     |  EVM      |   [📝](./Private%20Transfer%20With%20USX%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -21,12 +24,14 @@
 | Volta Wallet                   | January 2026   |  Rust     |   [📝](./Volta%20Wallet%20-%20Zellic%20Audit%20Report.pdf)             |
 | Arkhai                         | January 2026   |  EVM      |   [📝](./Arkhai%20Alkahest%20-%20Zellic%20Audit%20Report.pdf)             |
 | Blackhaven                     | January 2026   |  EVM      |   [📝](./Blackhaven%20(Core%20Contracts)%20-%20Zellic%20Audit%20Report.pdf)             |
+| VM Rewrite                     | December 2025  |  Rust     |   [📝](./VM%20Rewrite%20-%20Zellic%20Audit%20Report.pdf)             |
 | Megapot                        | December 2025  |  EVM      |   [📝](./Megapot%20AutoSub_BatchPurchase%20-%20Zellic%20Audit%20Report.pdf)             |
 | Ondo Global Markets            | December 2025  |  Solana   |   [📝](./Ondo%20Global%20Markets%20-%20Zellic%20Audit%20Report.pdf)             |
 | Hypercube Protocol             | December 2025  |  Rust     |   [📝](./Hypercube%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
 | Jovay Relayer                  | December 2025  |  Java     |   [📝](./Jovay%20Relayer%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero Solana Examples      | December 2025  |  Solana   |   [📝](./LayerZero%20Solana%20Examples%20-%20Zellic%20Audit%20Report.pdf)             |
 | Anza Token2022 PR Review       | December 2025  |  Solana   |   [📝](./Anza%20Token2022%20PR%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
+| Deepbook Margin                | November 2025  |  Sui      |   [📝](./Deepbook%20Margin%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare FAsset Diffs             | November 2025  |  EVM      |   [📝](./Flare%20FAsset%20Diffs%20-%20Zellic%20Audit%20Report.pdf)             |
 | Multisafe USPC Contracts       | November 2025  |  EVM      |   [📝](./Multisafe%20USPC%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | MegaETH Predeposit             | November 2025  |  EVM      |   [📝](./MegaETH%20Predeposit%20-%20Zellic%20Audit%20Report.pdf)             |
