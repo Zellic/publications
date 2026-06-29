@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Locus Smart Contracts          | June 2026      |  EVM      |   [📝](./Locus%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | FAsset Redeem Composer         | April 2026     |  EVM      |   [📝](./FAsset%20Redeem%20Composer%20-%20Zellic%20Audit%20Report.pdf)             |
 | Smart Account Diff             | April 2026     |  EVM      |   [📝](./Smart%20Account%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
 | Tenbin Labs Core Contracts     | April 2026     |  EVM      |   [📝](./Core%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
