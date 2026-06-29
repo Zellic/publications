@@ -13,6 +13,7 @@
 | Tenbin Labs Core Contracts     | April 2026     |  EVM      |   [📝](./Core%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | ThUSD                          | April 2026     |  EVM      |   [📝](./ThUSD%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare                          | April 2026     |  EVM      |   [📝](./Flare%20Smart%20Accounts%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
+| Settlement Protocol Contracts  | March 2026     |  EVM      |   [📝](./Relay%20Settlement%20Protocol%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | iUSD Vault                     | March 2026     |  Move     |   [📝](./iUSD%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | XAGm                           | March 2026     |  Sui      |   [📝](./XAGm%20-%20Zellic%20Audit%20Report.pdf)             |
 | YPIR                           | March 2026     |  Rust     |   [📝](./YPIR%20-%20Zellic%20Audit%20Report.pdf)             |
