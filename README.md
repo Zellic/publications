@@ -7,6 +7,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Locus Smart Contracts          | June 2026      |  EVM      |   [📝](./Locus%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
+| Relay Protocol Oracle          | April 2026     |  Web      |   [📝](./Relay%20Protocol%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
 | FAsset Redeem Composer         | April 2026     |  EVM      |   [📝](./FAsset%20Redeem%20Composer%20-%20Zellic%20Audit%20Report.pdf)             |
 | Smart Account Diff             | April 2026     |  EVM      |   [📝](./Smart%20Account%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
 | Tenbin Labs Core Contracts     | April 2026     |  EVM      |   [📝](./Core%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -32,6 +33,7 @@
 | Jovay Relayer                  | December 2025  |  Java     |   [📝](./Jovay%20Relayer%20-%20Zellic%20Audit%20Report.pdf)             |
 | LayerZero Solana Examples      | December 2025  |  Solana   |   [📝](./LayerZero%20Solana%20Examples%20-%20Zellic%20Audit%20Report.pdf)             |
 | Anza Token2022 PR Review       | December 2025  |  Solana   |   [📝](./Anza%20Token2022%20PR%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
+| Relay Settlement Protocol      | November 2025  |  Rust     |   [📝](./Settlement%20Protocol%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Deepbook Margin                | November 2025  |  Sui      |   [📝](./Deepbook%20Margin%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare FAsset Diffs             | November 2025  |  EVM      |   [📝](./Flare%20FAsset%20Diffs%20-%20Zellic%20Audit%20Report.pdf)             |
 | Multisafe USPC Contracts       | November 2025  |  EVM      |   [📝](./Multisafe%20USPC%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
