@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Superstate EVM                 | June 2026      |  EVM      |   [📝](./Superstate%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Locus Smart Contracts          | June 2026      |  EVM      |   [📝](./Locus%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Relay Protocol Oracle          | April 2026     |  Web      |   [📝](./Relay%20Protocol%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
 | FAsset Redeem Composer         | April 2026     |  EVM      |   [📝](./FAsset%20Redeem%20Composer%20-%20Zellic%20Audit%20Report.pdf)             |
