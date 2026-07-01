@@ -8,6 +8,7 @@
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Superstate EVM                 | June 2026      |  EVM      |   [📝](./Superstate%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Locus Smart Contracts          | June 2026      |  EVM      |   [📝](./Locus%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
+| AFX Bridge                     | May 2026       |  EVM      |   [📝](./AFX%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Relay Protocol Oracle          | April 2026     |  Web      |   [📝](./Relay%20Protocol%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
 | FAsset Redeem Composer         | April 2026     |  EVM      |   [📝](./FAsset%20Redeem%20Composer%20-%20Zellic%20Audit%20Report.pdf)             |
 | Smart Account Diff             | April 2026     |  EVM      |   [📝](./Smart%20Account%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
