@@ -21,6 +21,9 @@
 | YPIR                           | March 2026     |  Rust     |   [📝](./YPIR%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll Private Transfer        | March 2026     |  EVM      |   [📝](./Private%20Transfer%20With%20USX%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nima Labs RFQ Protocol         | March 2026     |  EVM      |   [📝](./RFQ%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| yoSOL                          | February 2026  |  Solana   |   [📝](./yoSOL%20-%20Zellic%20Audit%20Report.pdf)             |
+| Flare Smart Accounts           | February 2026  |  EVM      |   [📝](./Flare%20Smart%20Accounts%20-%20Zellic%20Audit%20Report.pdf)             |
+| Superstate Smart Contracts     | February 2026  |  EVM      |   [📝](./Superstate%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Berachain Honey                | February 2026  |  EVM      |   [📝](./Berachain%20Honey%20(EIP-3009)%20-%20Zellic%20Audit%20Report.pdf)             |
 | Berachain PoL                  | February 2026  |  EVM      |   [📝](./Berachain%20PoL%20(PR%2090)%20-%20Zellic%20Audit%20Report.pdf)             |
 | Frax USD Stablecoin            | February 2026  |  EVM      |   [📝](./Frax%20(USD%20Stablecoin)%20-%20Zellic%20Audit%20Report.pdf)             |
