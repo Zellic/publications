@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Lighter EVM Migration          | June 2026      |  EVM      |   [📝](./Lighter%20EVM%20Migration%20-%20Zellic%20Audit%20Report.pdf)             |
 | Superstate EVM                 | June 2026      |  EVM      |   [📝](./Superstate%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Locus Smart Contracts          | June 2026      |  EVM      |   [📝](./Locus%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | AFX Bridge                     | May 2026       |  EVM      |   [📝](./AFX%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
