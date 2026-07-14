@@ -6,6 +6,8 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| FAsset and Smart Account       | June 2026      |  EVM      |   [📝](./Flare%20FAsset%20and%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf)             |
+| Stork Oracle                   | June 2026      |  Sui      |   [📝](./Stork%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
 | Lighter EVM Migration          | June 2026      |  EVM      |   [📝](./Lighter%20EVM%20Migration%20-%20Zellic%20Audit%20Report.pdf)             |
 | Superstate EVM                 | June 2026      |  EVM      |   [📝](./Superstate%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Locus Smart Contracts          | June 2026      |  EVM      |   [📝](./Locus%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -16,6 +18,8 @@
 | Tenbin Labs Core Contracts     | April 2026     |  EVM      |   [📝](./Core%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | ThUSD                          | April 2026     |  EVM      |   [📝](./ThUSD%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare                          | April 2026     |  EVM      |   [📝](./Flare%20Smart%20Accounts%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
+| FSP V1 and V2                  | March 2026     |  EVM      |   [📝](./FSP%20V1%20and%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
+| Flare FAssets V1.3             | March 2026     |  EVM      |   [📝](./Flare%20FAssets%20V1.3%20-%20Zellic%20Audit%20Report.pdf)             |
 | Settlement Protocol Contracts  | March 2026     |  EVM      |   [📝](./Relay%20Settlement%20Protocol%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | iUSD Vault                     | March 2026     |  Move     |   [📝](./iUSD%20Vault%20-%20Zellic%20Audit%20Report.pdf)             |
 | XAGm                           | March 2026     |  Sui      |   [📝](./XAGm%20-%20Zellic%20Audit%20Report.pdf)             |
