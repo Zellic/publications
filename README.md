@@ -6,6 +6,9 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Zcash Zakura                   | July 2026      |  Rust     |   [📝](./Zcash%20Zakura%20-%20Zellic%20Audit%20Report.pdf)             |
+| Zcash librustzcash             | July 2026      |  Rust     |   [📝](./Zcash%20librustzcash%20-%20Zellic%20Audit%20Report.pdf)             |
+| Zcash Ironwood Upgrade         | July 2026      |  Rust     |   [📝](./Zcash%20Ironwood%20Upgrade%20-%20Zellic%20Audit%20Report.pdf)             |
 | zecd                           | June 2026      |  Rust     |   [📝](./zecd%20-%20Zellic%20Audit%20Report.pdf)             |
 | FAsset and Smart Account       | June 2026      |  EVM      |   [📝](./Flare%20FAsset%20and%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf)             |
 | Stork Oracle                   | June 2026      |  Sui      |   [📝](./Stork%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
