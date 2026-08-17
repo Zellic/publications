@@ -7,6 +7,7 @@
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Zcash Sapling                  | August 2026    |  Rust     |   [📝](./Zcash%20Sapling%20-%20Zellic%20Audit%20Report.pdf)             |
+| Bulk Trade                     | July 2026      |  Solana   |   [📝](./Bulk%20Trade%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Zakura                   | July 2026      |  Rust     |   [📝](./Zcash%20Zakura%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash librustzcash             | July 2026      |  Rust     |   [📝](./Zcash%20librustzcash%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Ironwood Upgrade         | July 2026      |  Rust     |   [📝](./Zcash%20Ironwood%20Upgrade%20-%20Zellic%20Audit%20Report.pdf)             |
