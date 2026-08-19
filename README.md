@@ -8,6 +8,7 @@
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
 | Pyth Pro Stellar Contracts     | August 2026    |  Rust     |   [📝](./Pyth%20Pro%20Stellar%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Sapling                  | August 2026    |  Rust     |   [📝](./Zcash%20Sapling%20-%20Zellic%20Audit%20Report.pdf)             |
+| Plasma                         | July 2026      |  EVM      |   [📝](./Plasma%20-%20Zellic%20Audit%20Report.pdf)             |
 | Bulk Trade                     | July 2026      |  Solana   |   [📝](./Bulk%20Trade%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Zakura                   | July 2026      |  Rust     |   [📝](./Zcash%20Zakura%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash librustzcash             | July 2026      |  Rust     |   [📝](./Zcash%20librustzcash%20-%20Zellic%20Audit%20Report.pdf)             |
