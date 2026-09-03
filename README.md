@@ -6,6 +6,9 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| EVM Deposit/Withdraw Bridge    | August 2026    |  EVM      |   [📝](./EVM%20DepositWithdraw%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
+| Tydro Payload/Economic Review  | August 2026    |  EVM      |   [📝](./Tydro%20PayloadEconomic%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
+| Tydro Mulitply                 | August 2026    |  EVM      |   [📝](./Tydro%20Multiply%20-%20Zellic%20Audit%20Report.pdf)             |
 | Pyth Pro Stellar Contracts     | August 2026    |  Rust     |   [📝](./Pyth%20Pro%20Stellar%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Sapling                  | August 2026    |  Rust     |   [📝](./Zcash%20Sapling%20-%20Zellic%20Audit%20Report.pdf)             |
 | Plasma                         | July 2026      |  EVM      |   [📝](./Plasma%20-%20Zellic%20Audit%20Report.pdf)             |
