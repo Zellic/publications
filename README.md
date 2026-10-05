@@ -6,18 +6,24 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| Anza Token 2022                | September 2026 |  Solana   |   [📝](./Anza%20Token%202022%20Changes%20-%20Zellic%20Audit%20Report.pdf)             |
+| Flare Relay Network            | September 2026 |  EVM      |   [📝](./Flare%20Relay%20Network%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
+| Tenbine Labs                   | August 2026    |  EVM      |   [📝](./Tenbin%20Labs%20-%20Zellic%20Audit%20Report.pdf)             |
 | Multiliquid SVM                | August 2026    |  Solana   |   [📝](./Multiliquid%20SVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | EVM Deposit/Withdraw Bridge    | August 2026    |  EVM      |   [📝](./EVM%20DepositWithdraw%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Tydro Payload/Economic Review  | August 2026    |  EVM      |   [📝](./Tydro%20PayloadEconomic%20Review%20-%20Zellic%20Audit%20Report.pdf)             |
 | Tydro Mulitply                 | August 2026    |  EVM      |   [📝](./Tydro%20Multiply%20-%20Zellic%20Audit%20Report.pdf)             |
 | Pyth Pro Stellar Contracts     | August 2026    |  Rust     |   [📝](./Pyth%20Pro%20Stellar%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Sapling                  | August 2026    |  Rust     |   [📝](./Zcash%20Sapling%20-%20Zellic%20Audit%20Report.pdf)             |
+| Flare Solana OFT               | July 2026      |  Solana   |   [📝](./Flare%20Solana%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
+| Flare FSP Diff                 | July 2026      |  EVM      |   [📝](./Flare%20FSP%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
 | Multiliquid EVM                | July 2026      |  EVM      |   [📝](./Multiliquid%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
 | Plasma                         | July 2026      |  EVM      |   [📝](./Plasma%20-%20Zellic%20Audit%20Report.pdf)             |
 | Bulk Trade                     | July 2026      |  Solana   |   [📝](./Bulk%20Trade%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Zakura                   | July 2026      |  Rust     |   [📝](./Zcash%20Zakura%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash librustzcash             | July 2026      |  Rust     |   [📝](./Zcash%20librustzcash%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Ironwood Upgrade         | July 2026      |  Rust     |   [📝](./Zcash%20Ironwood%20Upgrade%20-%20Zellic%20Audit%20Report.pdf)             |
+| Anza Program Metadata          | June 2026      |  Solana   |   [📝](./Anza%20Program%20Metadata%20-%20Zellic%20Audit%20Report.pdf)             |
 | zecd                           | June 2026      |  Rust     |   [📝](./zecd%20-%20Zellic%20Audit%20Report.pdf)             |
 | FAsset and Smart Account       | June 2026      |  EVM      |   [📝](./Flare%20FAsset%20and%20Smart%20Account%20-%20Zellic%20Audit%20Report.pdf)             |
 | Stork Oracle                   | June 2026      |  Sui      |   [📝](./Stork%20Oracle%20-%20Zellic%20Audit%20Report.pdf)             |
