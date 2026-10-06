@@ -37,6 +37,7 @@
 | Tenbin Labs Core Contracts     | April 2026     |  EVM      |   [📝](./Core%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | ThUSD                          | April 2026     |  EVM      |   [📝](./ThUSD%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare                          | April 2026     |  EVM      |   [📝](./Flare%20Smart%20Accounts%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
+| IBC Solidity Contracts         | March 2026     |  EVM      |   [📝](./IBC%20Solidity%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | FSP V1 and V2                  | March 2026     |  EVM      |   [📝](./FSP%20V1%20and%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare FAssets V1.3             | March 2026     |  EVM      |   [📝](./Flare%20FAssets%20V1.3%20-%20Zellic%20Audit%20Report.pdf)             |
 | Settlement Protocol Contracts  | March 2026     |  EVM      |   [📝](./Relay%20Settlement%20Protocol%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
@@ -45,6 +46,7 @@
 | YPIR                           | March 2026     |  Rust     |   [📝](./YPIR%20-%20Zellic%20Audit%20Report.pdf)             |
 | Scroll Private Transfer        | March 2026     |  EVM      |   [📝](./Private%20Transfer%20With%20USX%20-%20Zellic%20Audit%20Report.pdf)             |
 | Nima Labs RFQ Protocol         | March 2026     |  EVM      |   [📝](./RFQ%20Protocol%20-%20Zellic%20Audit%20Report.pdf)             |
+| IBC-Go GMP Module              | February 2026  |  Go       |   [📝](./IBC-Go%20GMP%20Module%20and%20Attestations%20Light%20Client%20-%20Zellic%20Audit%20Report.pdf)             |
 | yoSOL                          | February 2026  |  Solana   |   [📝](./yoSOL%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare Smart Accounts           | February 2026  |  EVM      |   [📝](./Flare%20Smart%20Accounts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Superstate Smart Contracts     | February 2026  |  EVM      |   [📝](./Superstate%20Smart%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
