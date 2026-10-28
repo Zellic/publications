@@ -15,6 +15,7 @@
 | Tydro Mulitply                 | August 2026    |  EVM      |   [📝](./Tydro%20Multiply%20-%20Zellic%20Audit%20Report.pdf)             |
 | Pyth Pro Stellar Contracts     | August 2026    |  Rust     |   [📝](./Pyth%20Pro%20Stellar%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | Zcash Sapling                  | August 2026    |  Rust     |   [📝](./Zcash%20Sapling%20-%20Zellic%20Audit%20Report.pdf)             |
+| Nori Bridge                    | July 2026      |  Rust     |   [📝](./Nori%20Bridge%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare Solana OFT               | July 2026      |  Solana   |   [📝](./Flare%20Solana%20OFT%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare FSP Diff                 | July 2026      |  EVM      |   [📝](./Flare%20FSP%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
 | Multiliquid EVM                | July 2026      |  EVM      |   [📝](./Multiliquid%20EVM%20-%20Zellic%20Audit%20Report.pdf)             |
