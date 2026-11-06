@@ -6,6 +6,7 @@
 
 | Product                        | Date     |   Network   |                                  Report                                   |
 | :----------------------------- | :------- | :---------: | :-----------------------------------------------------------------------: |
+| frxUSD Ecosystem               | October 2026   |  EVM      |   [📝](./frxUSD%20Ecosystem%20-%20Zellic%20Audit%20Report.pdf)             |
 | Anza Token 2022                | September 2026 |  Solana   |   [📝](./Anza%20Token%202022%20Changes%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare Relay Network            | September 2026 |  EVM      |   [📝](./Flare%20Relay%20Network%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
 | Tenbine Labs                   | August 2026    |  EVM      |   [📝](./Tenbin%20Labs%20-%20Zellic%20Audit%20Report.pdf)             |
