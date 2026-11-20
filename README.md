@@ -39,6 +39,7 @@
 | Tenbin Labs Core Contracts     | April 2026     |  EVM      |   [📝](./Core%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | ThUSD                          | April 2026     |  EVM      |   [📝](./ThUSD%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare                          | April 2026     |  EVM      |   [📝](./Flare%20Smart%20Accounts%20Diff%20-%20Zellic%20Audit%20Report.pdf)             |
+| Falcon Staking Rewards         | March 2026     |  Solana   |   [📝](./Falcon%20Staking%20Rewards%20-%20Zellic%20Audit%20Report.pdf)             |
 | IBC Solidity Contracts         | March 2026     |  EVM      |   [📝](./IBC%20Solidity%20Contracts%20-%20Zellic%20Audit%20Report.pdf)             |
 | FSP V1 and V2                  | March 2026     |  EVM      |   [📝](./FSP%20V1%20and%20V2%20-%20Zellic%20Audit%20Report.pdf)             |
 | Flare FAssets V1.3             | March 2026     |  EVM      |   [📝](./Flare%20FAssets%20V1.3%20-%20Zellic%20Audit%20Report.pdf)             |
